@@ -1,0 +1,5 @@
+{
+  "n_sections": 3076,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dense_index_built": true
+}

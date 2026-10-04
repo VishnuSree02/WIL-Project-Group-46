@@ -1,0 +1,19 @@
+question_id,act,section,relevance_judgment
+K1,Crimes Act 1958,319,2
+K2,"Drugs, Poisons and Controlled Substances Act 1981",71,2
+K3,Sentencing Act 1991,37,2
+K4,Infringements Act 2006,22,2
+K5,Road Safety Act 1986,1,2
+K6,Victoria Police Act 2013,1,2
+I1,Crimes Act 1958,319,2
+I1,Road Safety Act 1986,49,2
+I2,Sentencing Act 1991,43,2
+I2,Sentencing Act 1991,37,1
+I3,Infringements Act 2006,22,1
+I3,Infringements Act 2006,27,2
+I4,"Drugs, Poisons and Controlled Substances Act 1981",71AB,2
+I4,"Drugs, Poisons and Controlled Substances Act 1981",71AC,1
+I5,Road Safety Act 1986,50AAA,2
+I5,Road Safety Act 1986,50AAC,2
+I6,Victoria Police Act 2013,200J,2
+I6,Victoria Police Act 2013,10,1

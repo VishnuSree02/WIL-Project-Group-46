@@ -1,0 +1,22 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+.idea/
+.vscode/
+
+.DS_Store
+
+.env
+.env.*
+
+.ipynb_checkpoints/
+
+results/
+
+# Uncomment this if your data folder contains large PDFs
+# data/

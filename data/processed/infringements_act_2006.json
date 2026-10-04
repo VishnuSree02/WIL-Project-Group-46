@@ -1,0 +1,866 @@
+[
+  {
+    "act": "Infringements Act 2006",
+    "part": "",
+    "division": "",
+    "section": "1",
+    "heading": "Purposes",
+    "text": "The main purposes of this Act are— (a) to provide a framework for the issuing and serving of infringement notices; and (ab) to provide a framework for internal review of a decision by an enforcement agency to serve an infringement notice; and (ac) to provide for the payment of an infringement penalty by payment plan; and (ad) to provide for the work and development permit scheme; and (b) to amend the Magistrates' Court Act 1989, the Road Safety Act 1986 and the Subordinate Legislation Act 1994."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "2",
+    "heading": "Commencement",
+    "text": "(1) Subject to subsection (2), this Act comes into operation on a day or days to be proclaimed. (2) If a provision of this Act does not come into operation before 1 July 2007, it comes into operation on that day."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "3",
+    "heading": "Definitions",
+    "text": "(1) In this Act— accredited agency accredited health practitioner additional steps additional steps, in relation to an infringement offence, means any additional steps which have to be taken under the Act or other instrument creating the offence to expiate the offence to which an infringement notice relates; attachment of earnings order attachment of debts order child means a person who is under 18 years of age at the time of the alleged commission of an infringement offence but does not include any person who is 19 years of age or over when— (a) an infringement penalty is registered under section 16 of the Fines Reform Act 2014; or (b) an application is made under clause 3 of Schedule 3 to the Children, Youth and Families Act 2005 for the registration of an infringement penalty in respect of the person; child ss 40(1), 42(Sch. Note It is conclusively presumed that a child who is under 12 years of age cannot commit an offence—see section 10 of the Youth Justice Act 2024. community corrections centre community corrections officer community work permit Court means Magistrates' Court; court fine court fine has the same meaning as it has in the Fines Reform Act 2014; Director Director has the same meaning as it has in the Fines Reform Act 2014; director driver licence eligible person enforcement agency, in relation to an infringement offence, means— (a) a person or body authorised by or under an Act to take proceedings for the infringement offence in respect of which the infringement notice or official warning was issued or served; or (b) a person by whom, or body by which, a person or body referred to in paragraph (a) is employed or engaged to provide services if the taking of the proceedings referred to in that paragraph would occur in the course of that employment or in the course of providing those services; or (c) a prescribed person or body or person or body which is a member of a prescribed class of person or body; enforcement order enforcement order notice enforcement warrant has the same meaning as it has in the Fines Reform Act 2014; enforcement warrant execution copy fine fine units garnishee fine related sentence guidelines means the guidelines in force from time to time under section 5; health practitioner infringement fine infringement fine has the same meaning as it has in the Fines Reform Act 2014; infringement notice infringement notice means a notice in respect of an infringement offence served or to be served in accordance with Part 2; infringement offence means an offence which may be the subject of an infringement notice under— (a) any Act or statutory rule; or (b) any local law; or (ba) a by-law made under section 171 of the Water Act 1989 or a by-law made under a prescribed Act; or infringement offence (c) any Commonwealth Act or any Act of another State or Territory or any subordinate instrument under such an Act that applies as a law of Victoria; infringement offender infringement penalty means the amount stated in an infringement notice as payable in respect of the infringement offence to which the notice relates; infringements registrar infringement warrant instalment order issuing officer means— (a) a person appointed by an enforcement agency to issue or serve an infringement notice in respect of an infringement offence; or (b) a prescribed person or person who is a member of a prescribed class of person; local law local law means a local law made under Division 3 of Part 3 of the Local Government Act 2020; lodgeable infringement offence motor vehicle has the same meaning as it has in the Road Safety Act 1986; nomination statement nomination statement means— (a) an illegal user statement, a known user statement, a sold vehicle statement, an unknown user statement, a tolling nomination statement or a nomination rejection statement within the meaning of Part 6AA of the Road Safety Act 1986; or (b) an illegal user statement, a known user statement, a sold vessel statement, an unknown user statement or a nomination rejection statement within the meaning of Part 4.7 of the Marine Safety Act 2010; non-fine related sentence has the same meaning as in the Fines Reform Act 2014; non-fine related sentence def. of nonfine related sentence non-lodgeable infringement offence non-registrable infringement offence has the same meaning as it has in the Fines Reform Act 2014; nonregistrable infringement offence notice of final demand has the same meaning as it has in the Fines Reform Act 2014; notice of final demand nurse official warning means a warning in respect of an infringement offence served in accordance with Part 2; online platform online platform means the website approved by the Director under section 179A of the Fines Reform Act 2014; outstanding fines payment arrangement payment arrangement has the same meaning as it has in the Fines Reform Act 2014; payment order payment plan means a payment plan under Part 3; penalty reminder notice means a notice served under section 29; penalty reminder notice fee means the prescribed fee that applies on the serving of a penalty reminder notice; police officer has the same meaning as in the Victoria Police Act 2013; penalty reminder notice fee police member police officer prescribed costs prescribed warrant fee public place registered psychologist relevant infringement fine relevant infringement fine has the same meaning as in section 163 of the Fines Reform Act 2014; Secretary registered operator seven-day notice means a notice served under section 88; special circumstances special circumstances has the meaning given by section 3A; time to pay order VicRoads (Sch. 6 time served order vehicle has the same meaning as it has in the Road Safety Act 1986; work and development permit has the same meaning as it has in the Fines Reform Act 2014. work and development permit work and development permit guidelines (2) If under the Public Administration Act 2004 the name of the Department of Justice is changed, a reference in the definition of Secretary in subsection (1) to that Department must, from the date when the name is changed, be treated as a reference to the Department by its new name."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "3A",
+    "heading": "Meaning of special circumstances",
+    "text": "(1) In this Act, special circumstances, in relation to a person, means— (a) a mental or intellectual disability, disorder, disease or illness where the disability, disorder, disease or illness contributes to the person having a significantly reduced capacity to— (i) understand that conduct constitutes an offence; or (ii) control conduct that constitutes an offence; or (b) a serious addiction to drugs, alcohol or a volatile substance within the meaning of section 57 of the Drugs, Poisons and Controlled Substances Act 1981 where the serious addiction contributes to the person having a significantly reduced capacity to— (i) understand that conduct constitutes an offence; or (ii) control conduct that constitutes an offence; or (c) homelessness determined in accordance with the prescribed criteria (if any) where the homelessness contributes to the person having a significantly reduced capacity to control conduct that constitutes an offence; or (d) family violence within the meaning of section 5 of the Family Violence Protection Act 2008 where the person is a victim of family violence and the family violence contributes to the person having a significantly reduced capacity to control conduct that constitutes an offence; or (e) circumstances experienced by the person that— (i) are long-term in nature; and (ii) make it impracticable for the person to pay the infringement penalty and any applicable fees or otherwise deal with the infringement notice under this Act or the Fines Reform Act 2014; and (iii) do not solely or predominantly relate to the person's financial circumstances. (2) Nothing in subsection (1) is to be taken as limiting any power of the Court to consider the circumstances of any person in a proceeding before the Court under this Act or any other Act. 47/2014 47/2014"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "4",
+    "heading": "Act to be read as one with Magistrates' Court",
+    "text": "Act 1989, Fines Reform Act 2014 and Criminal Procedure Act 2009 (1) This Act is to be read and construed as one with the Magistrates' Court Act 1989, Fines Reform Act 2014 and the Criminal Procedure Act 2009. (2) Expressions used in this Act and in the Magistrates' Court Act 1989 that are not defined in section 3 or elsewhere in this Act have the same meanings as in the Magistrates' Court Act 1989. (3) Expressions used in this Act and in the Criminal Procedure Act 2009 that are not defined in section 3 or elsewhere in this Act have the same meanings as in the Criminal Procedure Act 2009. (4) Expressions used in this Act and in the Fines Reform Act 2014 that are not defined in section 3 or elsewhere in this Act have the same meanings as in the Fines Reform Act 2014."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "5",
+    "heading": "Guidelines",
+    "text": "(1) The Attorney-General, after consultation with any other Minister whose area of responsibility may be affected by the guidelines, may make guidelines for or with respect to— (a) the offences suitable for being subject to infringement notices under this Act or any other Act or other instrument; (b) the level of penalty suitable for being subject to infringement notices; (ba) the information to be contained in an annual report prepared under section 6A; (c) the administration of this Act including— (i) a model code of conduct to apply to issuing officers and enforcement agencies unless an enforcement agency has adopted its own code of conduct; (ii) the criteria to be considered in determining whether a person is entitled to a payment plan and the management of a payment plan, including eligibility criteria; (iv) the use of any records kept by enforcement agencies of any infringement notices or official warnings issued or served; (v) the provision of information, including statistical data, relating to infringement offences to the Attorney-General; (vi) any other matter relating to the administration of this Act. (2) The Attorney-General— (a) must cause the guidelines to be published in the Government Gazette; and (b) may publish the guidelines on the Internet. (3) The guidelines take effect on the date of publication in the Government Gazette or such later date as is specified in the guidelines."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "6",
+    "heading": "Reports to Attorney-General",
+    "text": "For the purposes of ensuring the effective administration of this Act, an enforcement agency must provide to the Attorney-General the prescribed information, including statistical data— (a) at the prescribed intervals; or (b) at such other periods as the Attorney-General by written notice to the agency may require."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 1—Preliminary",
+    "division": "",
+    "section": "6A",
+    "heading": "Annual report",
+    "text": "(1) The Attorney-General must prepare an annual report in respect of each financial year. (2) The Attorney-General must publish an annual report on a website maintained by the Department of Justice and Community Safety. (3) The annual report must— (a) contain any information specified in guidelines made by the Attorney-General under section 5 as information to be contained in the annual report; and (b) contain information relating to the exercise of the Director's internal review oversight function under Part 3A."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—",
+    "division": "Division 1—Official warnings",
+    "section": "7",
+    "heading": "Infringement offences to which this Act applies",
+    "text": "47/2014 (1) This Act applies to infringement offences, including a local law which is a parking infringement within the meaning of the Road Safety Act 1986. (3) Subject to anything to the contrary in the Children, Youth and Families Act 2005 or this Act, this Act applies to infringement notices issued to or served on a child for an infringement offence. pre-enforcement stage"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 1—Official warnings",
+    "section": "8",
+    "heading": "Issuing officer may serve an official warning",
+    "text": "(1) An issuing officer may serve a person with an official warning rather than serve an infringement notice if— (a) the issuing officer believes on reasonable grounds that a person has committed an infringement offence; and (b) the issuing officer is of the opinion that in all the circumstances it is appropriate to serve an official warning. (2) An official warning must be in writing and contain the prescribed details. (3) In making a decision under subsection (1), an issuing officer, other than a police officer, must— (a) observe any policy of the relevant enforcement agency in relation to the application of official warnings in respect of any infringement offence; and (b) have regard to enforcement agency guidelines made by the relevant enforcement agency in relation to the application of official warnings in respect of any infringement offence. (4) Nothing in this section limits an issuing officer's power to exercise his or her discretion as to whether to serve an infringement notice."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 1—Official warnings",
+    "section": "9",
+    "heading": "Enforcement agency guidelines and policies",
+    "text": "An enforcement agency, unless the enforcement agency is a prescribed agency, may make and publish enforcement agency guidelines and policies in respect of the use of official warnings for infringement offences."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 1—Official warnings",
+    "section": "10",
+    "heading": "Official warning does not affect other powers",
+    "text": "An official warning does not affect the power of an issuing officer or enforcement agency— (a) to commence proceedings against a person to whom an official warning was given; or (b) to serve an infringement notice; or (c) to take no further action; or (d) to take any other specified action permitted under this Act or the Act or other instrument which establishes the infringement offence."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "11",
+    "heading": "Withdrawal of official warning",
+    "text": "(1) An issuing officer or enforcement agency must withdraw an official warning if— (a) proceedings are to be commenced against the person on whom an official warning was served in respect of the infringement offence; or (b) an infringement notice in respect of the infringement offence is to be served on the person on whom an official warning was served. (2) An official warning may be withdrawn at any time before the expiry of the prescribed period. (3) An official warning must be withdrawn by serving a withdrawal of an official warning on the person on whom the official warning was served. (4) A withdrawal of an official warning must— (a) be in writing; and (b) contain the prescribed details."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "12",
+    "heading": "Service of infringement notice",
+    "text": "(1) An infringement notice for an infringement offence may be served on a person— (a) by delivering it personally to the person; or (b) by sending it by post addressed to the person at— (i) the person's last known place of residence or business; or (ii) the person's address provided in a nomination statement given by the person in the preceding 12 months; or (c) if a vehicle is involved in the alleged commission of the offence, by affixing or placing the notice on that vehicle in a conspicuous manner; or Note to (d) in any other manner not specified in paragraphs (a) to (c) if the Act or other instrument which establishes the infringement offence or any other Act or other instrument provides for any other manner of service. Note This Act permits the service of infringement notices by email or other electronic communication—see section 162(1)(bb) and (bc). (2) Subject to any evidence to the contrary and despite anything to the contrary in section 49 of the Interpretation of Legislation Act 1984, an infringement notice served by post in accordance with subsection (1)(b) is deemed to be served 7 days after the date of the infringement notice. (3) An infringement notice served on a person less than 21 days before the date specified in the infringement notice as the due date for payment of the infringement penalty is invalid. Note See section 163A."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "13",
+    "heading": "Forms of infringement notice",
+    "text": "An infringement notice must— (a) be in writing and contain the prescribed details; (b) state that— (i) the person is entitled to elect to have the matter of the infringement offence heard and determined in the Court; or (ii) in the case of an infringement notice served on a child, is entitled to have the matter of the infringement offence dealt with by the Children's Court in accordance with the Children, Youth and Families Act 2005."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "14",
+    "heading": "Payment to be within time specified",
+    "text": "An infringement penalty must be paid within the period specified in the infringement notice, being a period not less than 21 days after an infringement notice has been served."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "15",
+    "heading": "Late payment",
+    "text": "An enforcement agency may accept payment of an infringement penalty after the expiry of the time for payment stated in the infringement notice if— (a) the infringement notice has not been withdrawn; and (b) in the case of— (i) an infringement offence for which an infringement notice was served on a person other than a child, the outstanding amount of the infringement penalty has not been registered with the Director under the Fines Reform Act 2014; or ss 40(2), 42(Sch. (ii) an infringement offence for which an infringement notice was served on a child, the details of the infringement penalty in respect of that offence have not been registered with the Children's Court under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005. (Heading)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "16",
+    "heading": "Person may elect to have matter heard in Court or",
+    "text": "Children's Court (1) Unless subsection (1A) applies, a person served with an infringement notice may elect to have the matter of the infringement offence heard and determined in the Court at any time before the outstanding amount of the infringement penalty, together with any penalty reminder notice fee are registered with the Director under the Fines Reform Act 2014. (1A) A person served with an infringement notice in respect of a non-registrable infringement offence may elect to have the matter of the infringement offence heard and determined in the Court at any time before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates. (2) This section does not apply to infringement offences to which the following provisions apply— (a) sections 89A to 89D of the Road Safety Act 1986; (Sch. 6 (c) sections 61A and 61BA of the Marine (Drug, Alcohol and Pollution Control) Act 1988. (3) Despite subsections (1) and (1A), if a person served with an infringement notice is a child, that person may elect to have the matter of the infringement offence heard and determined in the Children's Court— ss 40(2), 42(Sch. (Heading) (a) in the case of an infringement offence for which an infringement penalty may be registered under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005, at any time before an enforcement order under that Schedule is made; (b) in the case of any other infringement offence, at any time before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "17",
+    "heading": "Enforcement agency can refer matter to Court or",
+    "text": "Children's Court (1) Subject to subsection (3), an enforcement agency may refer a matter for which an infringement notice has been served to the Court— (a) at any time before the outstanding amount of the infringement penalty together with any penalty reminder notice fee are registered with the Director under the Fines Reform Act 2014; or (b) if the infringement notice is in respect of a non-registrable infringement offence, at any time before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates. (2) This section does not apply to infringement offences to which the following provisions apply— (a) sections 89A to 89D of the Road Safety Act 1986; (Sch. 6 (c) sections 61A and 61BA of the Marine (Drug, Alcohol and Pollution Control) Act 1988. (3) In the case of an infringement notice served on a child, an enforcement agency may withdraw the infringement notice and file a charge-sheet and summons in the Children's Court for the matter to be dealt with at any time— (a) in the case of an infringement offence for which an infringement penalty may be registered under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005, before an enforcement order under that Schedule is made; ss 40(2), 42(Sch. (b) in the case of any other infringement offence, before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "18",
+    "heading": "Withdrawal of infringement notice",
+    "text": "48/2006 ss 40(2), 42(Sch. (1) An enforcement agency may withdraw an infringement notice by serving a withdrawal notice on the person served with the infringement notice— (a) unless the infringement offence is of a kind specified in paragraph (b) or (c), at any time before the outstanding amount of the infringement penalty together with any penalty reminder notice fee are registered with the Director under the Fines Reform Act 2014; (b) in the case of an infringement offence for which an infringement penalty may be registered under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005, at any time before an enforcement order under that Schedule is made; (c) in the case of a non-registrable infringement offence, at any time before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates. (2) Subject to subsection (4), without limiting subsection (1), an enforcement agency may withdraw an infringement notice if the enforcement agency determines that— (a) an official warning should be served on the person rather than an infringement notice; or (b) proceedings are to be commenced against the person in respect of the infringement offence for which the infringement notice had been served; or (c) the matter should be abandoned. (3) Subject to subsection (4), an infringement notice may be withdrawn even if the infringement penalty and penalty reminder notice fee (if any) have been paid. (4) In the case of an infringement notice in respect of an infringement offence requiring additional steps to be taken, the infringement notice cannot be withdrawn for the purposes of commencing proceedings against the person in respect of the offence for which the infringement notice had been served if the person on whom the infringement notice was served— (a) has paid the infringement penalty and penalty reminder notice fee (if any); and (b) has taken all the required additional steps. (5) If an infringement notice is withdrawn, the amount of any infringement penalty and any penalty reminder notice fee paid must be refunded and— (a) if the penalty and fee (if any) have been paid into the Consolidated Fund, the Consolidated Fund is, to the necessary extent, appropriated accordingly; or (b) if the penalty and fee (if any) have been paid into another fund or account, the penalty and fee (if any) are to be refunded from that fund or account. 41/2026 (6) This section does not apply to infringement offences to which the following provisions apply— (a) sections 89A to 89D of the Road Safety Act 1986; (Sch. 6 (c) sections 61A and 61BA of the Marine (Drug, Alcohol and Pollution Control) Act 1988. (7) To avoid doubt, a withdrawal notice may be in respect of more than one infringement notice."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 2—Infringement notices",
+    "section": "19",
+    "heading": "Form of withdrawal notice",
+    "text": "A withdrawal notice must— (a) be in writing and contain the prescribed details in respect of each infringement offence; and (b) state that the enforcement agency intends to proceed in respect of each infringement offence by— (i) continuing proceedings and issuing a summons; or (ii) issuing an official warning; or (iii) taking no further action; or (iv) taking any other specified action permitted under this Act or the Act or other instrument which establishes the infringement offence."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "20",
+    "heading": "Effect of withdrawal",
+    "text": "(1) Subject to this Act, the withdrawal of an infringement notice does not affect any other procedure or action that can be taken under this Act or any other Act. (2) This section applies to an infringement notice— (a) withdrawn by withdrawal notice; or (b) deemed to be withdrawn by a provision of this Act or any other Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "21",
+    "heading": "Application of Division",
+    "text": "(1) This Division does not apply to an infringement notice or an infringement offence of a kind to which any of the following provisions apply— (a) sections 89A to 89D of the Road Safety Act 1986; (c) sections 61A and 61BA of the Marine (Drug, Alcohol and Pollution Control) Act 1988. (Sch. 6 (2) This Division does not apply to an infringement notice to which any of the following provisions apply if the person was unaware of the notice having been served and that service of the infringement notice was not by personal service— (a) section 67 or 89B of the Road Safety Act 1986; (b) section 87A of the Melbourne City Link Act 1995; (d) section 61B of the Marine (Drug, Alcohol and Pollution Control) Act 1988; (e) section 219A of the EastLink Project Act 2004; (f) section 52 of the West Gate Tunnel (Truck Bans and Traffic Management) Act 2019; (g) section 90 of the North East Link Act 2020."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "21A",
+    "heading": "Conduct of internal review",
+    "text": "An internal review under this Division must be conducted by a person employed by— (a) an enforcement agency authorised by or under an Act to prosecute the offence in respect of which the infringement notice is issued or served; or (b) a prescribed person or body or a person or body which is a member of a prescribed class of person or body for the purposes of paragraph (c) of the definition of enforcement agency in section 3(1)."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "22",
+    "heading": "Application for internal review",
+    "text": "(1) A person who has been served with an infringement notice or a person acting on that person's behalf with the first-mentioned person's consent, may apply to the relevant enforcement agency for review of the decision to serve the infringement notice if the person believes— (a) the decision— (i) was contrary to law; or (ii) involved a mistake of identity; or (b) that special circumstances apply to the person, unless— (i) the special circumstance referred to in the application is family violence; and (ii) the person has made an FVS application; or (c) the conduct for which the infringement notice was served should be excused having regard to any exceptional circumstances relating to the infringement offence; or (d) that the person was unaware of the notice having been served and that service of the infringement notice was not by personal service. (2) An application under subsection (1)(a), (b) or (c)— (a) may be made— (i) in the case of— (2)(a)(i)(A) (A) an infringement offence for which an infringement notice was served on a person, other than a child, at any time before the outstanding amount of an infringement penalty together with any penalty reminder notice fee are registered with the Director under the Fines Reform Act 2014; or (2)(a)(i)(B) ss 40(2), 42(Sch. (B) an infringement offence for which an infringement notice was served on a child, at any time before the infringement penalty in respect of that offence is registered with the Children's Court under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005; and (2)(a)(ii) (ii) in the case of a non-registrable infringement offence, at any time before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates; and (b) must be in writing; and (c) must state the grounds on which the decision should be reviewed; and (d) must provide the applicant's current address for service of the notice under section 24(3) of the outcome of the decision; and (e) may only be made once in relation to any one infringement offence in respect of the applicant. (3) An application under subsection (1)(d)— (a) must be made within 14 days of the applicant becoming aware of the infringement notice; and (b) must be in writing; and (c) must state the grounds on which the decision should be reviewed; and (d) must provide the applicant's current address for service of the notice of the outcome of the decision under section 24(3); and (e) may only be made once in relation to any one infringement offence in respect of the applicant. (4) An enforcement agency must not consider an application under subsection (1)(d) if the applicant has not updated the person's authorised address (within the meaning of section 163A(3)) within 14 days of changing address."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "23",
+    "heading": "Request for additional information",
+    "text": "(1) An enforcement agency may request in writing any additional information which it requires to conduct a review under section 24 from the applicant. (2) If an enforcement agency makes a request under subsection (1), it must suspend the review until the earlier of— (a) 35 days from the date specified in the document making the request as the date of the document; or (b) the date when the additional information is provided. (3) Within 14 days of service of the request for additional information by the enforcement agency, the applicant— (a) must provide the additional information; or (b) if additional time is required, may request in writing an extension of time to provide the additional information. (4) If the applicant requests additional time in accordance with subsection (3)(b), the enforcement agency may— (a) refuse to extend the time for the provision of the additional information; or (b) grant an extension of time for that information to be provided. (5) If an enforcement agency grants an extension of time under subsection (4)(b), the agency must inform the applicant in writing of the period of the extension. (6) If an applicant fails to provide the information requested under subsection (1) to the enforcement agency within the period specified in subsection (3) or, if an extension is granted under subsection (4)(b), within the period of that extension, the enforcement agency— (a) may review the decision under section 24 without the additional information; or (b) despite subsections (3) and (4)— (i) if the applicant provides the additional information to the enforcement agency out of time, may accept that late information; and (ii) may review the decision under section 24 with that late information."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "24",
+    "heading": "Review by enforcement agency",
+    "text": "(1) If an enforcement agency receives an application for review on a ground specified in section 22(1)(a), (b) or (c), the enforcement agency must— (a) review the decision to serve an infringement notice on the person; and (b) suspend any procedures that are being used for the enforcement of the infringement penalty in respect of the infringement offence until— (i) the review is complete; and (ii) the applicant is sent advice of the outcome. (1A) If an enforcement agency receives an application for review on the ground specified in section 22(1)(d), the enforcement agency must— (a) review whether it is likely that, more than 14 days before applying under section 22(1)(d), the person was not in fact aware that the infringement notice had been served; and (b) suspend any procedures that are being used for the enforcement of the infringement penalty in respect of the infringement offence until— (i) the review is complete; and (ii) the applicant is sent advice of the outcome of the review under subsection (3)(b). (2) An enforcement agency must ensure that a review under this section is conducted by a person who was not involved in making the decision to serve the infringement notice which is the subject of the review. (3) An enforcement agency must— (a) review a decision— (i) within the prescribed time; or (ii) if an enforcement agency requests additional information under section 23, within the prescribed period referred to in subparagraph (i) plus 35 days, whether or not the additional information was received by the agency; and (b) within 21 days of deciding the review, serve on the applicant a written notice advising of the outcome of the review. (4) If an enforcement agency fails to comply with subsection (3), the infringement notice is deemed to be withdrawn. (5) Nothing in this section limits the power of an enforcement agency to review a decision to serve an infringement notice on any other basis."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "25",
+    "heading": "What can an enforcement agency decide on review?",
+    "text": "(1) Subject to subsections (2) and (2A), after reviewing a decision under section 24, an enforcement agency may— (a) confirm the decision to serve an infringement notice; (b) withdraw the infringement notice and serve an official warning in place of the infringement notice; (c) withdraw the infringement notice; (d) withdraw the infringement notice and refer the matter to the Court in accordance with this Part or, in the case of an infringement notice served on a child, withdraw the infringement notice and file a charge-sheet and summons in the Children's Court for the matter to be dealt with in that Court; 68/2009 (e) in the case of an infringement offence involving additional steps, alter or vary those steps provided the alteration or variation is consistent with the Act or other instrument establishing the offence; (f) waive all or any penalty reminder notice fees; (g) approve a payment plan; (h) do any combination of any of the actions referred to in paragraphs (a) to (g). (2) In the case of an application made under section 22(1)(b) on the grounds that special circumstances apply to the person served with the infringement notice, after reviewing a decision under section 24, an enforcement agency may— (a) confirm the decision to serve an infringement notice; (b) withdraw the infringement notice and serve an official warning in place of the infringement notice; (c) withdraw the infringement notice. (2A) In the case of an application made under section 22(1)(d) on the grounds that the person was unaware of the infringement notice having been served, after reviewing a decision under section 24, an enforcement agency may— (a) grant the application if satisfied that, more than 14 days before applying under section 22(1)(d), the applicant was not in fact aware that the infringement notice had been served; or (b) refuse the application if not satisfied that, more than 14 days before applying under section 22(1)(d), the applicant was not in fact aware that the infringement notice had been served. 68/2009 47/2014 59/2017 (3) If an enforcement agency makes a decision under subsection (2)(a) confirming the decision to serve the infringement notice, the person served with the infringement notice must— (a) pay the infringement penalty in accordance with section 26; or (b) apply to the enforcement agency for a payment plan; or (c) apply to the Director for a payment arrangement; or (d) elect to have the matter of the infringement offence heard and determined in the Court; or (da) make an FVS application within the meaning the Fines Reform Act 2014, unless the person has already made an FVS application in respect of the infringement notice; or (e) be the subject of an application to the Director for a work and development permit. (4) If an enforcement agency makes a decision under subsection (2A)(a) granting the application, the enforcement agency must serve the applicant with written notice of that decision. (5) A person served with a notice under subsection (4) must, within 21 days of receiving the notice— (a) pay the infringement penalty; or (b) enter into a payment plan or payment arrangement; or (c) nominate another person as being the person responsible for committing the offence in respect of which an infringement notice was issued; or 59/2017 59/2017 (d) apply for a review of the decision to serve an infringement notice under section 22(1)(a), (b) or (c); or (e) elect to have the matter of an infringement offence heard and determined in the Court or the Children's Court (as the case requires); or (ea) make an FVS application within the meaning the Fines Reform Act 2014, unless the person has already made an FVS application in respect of the infringement notice; or (f) be the subject of an application to the Director for a work and development permit. 59/2017 (6) If an enforcement agency makes a decision under subsection (2A)(b) refusing the application, the enforcement agency must— (a) serve the applicant written notice of the outcome of the review; and (b) advise the applicant that the infringement penalty must be paid within 14 days of the written notice. (7) A person served with a notice under subsection (6) must, within 14 days of receiving the notice— (a) pay the infringement penalty; or (b) apply to the enforcement agency for a payment plan; or (c) apply to the Director for a payment arrangement; or (d) elect to have the matter of the infringement offence heard and determined in the Court; or (e) be the subject of an application to the Director for a work and development permit."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 3—Internal reviews",
+    "section": "26",
+    "heading": "Time to pay if decision confirmed",
+    "text": "(1) Subject to subsection (2), if an enforcement agency confirms a decision to serve an infringement notice under section 25(1)(a), the person must pay the infringement penalty and any penalty reminder notice fee by whichever of the following dates occurs latest in time— (a) the due date specified in the infringement notice; or (b) the due date specified in the penalty reminder notice; or (c) within 14 days after the person has been served with written notice advising of the outcome of the review. (2) In the case of an infringement offence involving additional steps, if an enforcement agency confirms a decision to serve an infringement notice under section 25(1)(a), the person must— (a) pay the infringement penalty and any penalty reminder notice fee by whichever of the following dates occurs latest in time— (i) the due date specified in the infringement notice; or (ii) the due date specified in the penalty reminder notice; or (iii) within 14 days after the person has been served with written notice advising of the outcome of the review; and (b) perform the additional steps by whichever of the following dates occurs latest in time— (i) the end of the remedy period specified in the infringement notice; or (ii) within 14 days after the person has been sent advice of the outcome of the review."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 4—Penalty reminder notices",
+    "section": "27",
+    "heading": "Review terminated if matter goes to Court or",
+    "text": "Children's Court If a person elects to have a matter heard and determined in the Court under this Part or, in the case of an infringement notice served on a child, heard and determined in the Children's Court while a review under this Division is in progress, (Heading) the review is terminated on the person making that election. (Heading and ss 27A–27L)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 4—Penalty reminder notices",
+    "section": "28",
+    "heading": "Application of Division",
+    "text": "This Division, except section 29, does not apply to an infringement notice or an infringement offence of a kind to which any of the following provisions apply— (a) sections 89A to 89D of the Road Safety Act 1986; (Sch. 6 (c) sections 61A and 61BA of the Marine (Drug, Alcohol and Pollution Control) Act 1988."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 4—Penalty reminder notices",
+    "section": "29",
+    "heading": "Penalty reminder notices",
+    "text": "(1) An enforcement agency may serve a penalty reminder notice on a person on whom an infringement notice was served if it appears to the enforcement agency that an infringement penalty has not been paid— (a) within the period for payment specified in the infringement notice; or (b) if an application for internal review under Division 3 has been made and no previous penalty reminder notice has been served in respect of the infringement notice, within the time specified in section 26. (2) If a payment plan applies to a person, an enforcement agency may serve a penalty reminder notice on that person if it appears to the enforcement agency that no previous penalty reminder notice has been served in respect of the infringement notice and the person has— (a) cancelled the payment plan; or (b) removed an infringement penalty and penalty reminder notice fee in respect of an infringement offence from a payment plan; or (c) is in default of a payment of the payment plan. (3) If a person is served with a penalty reminder notice in relation to an infringement notice, the time for payment of the infringement penalty is extended for a period specified in the penalty reminder notice, being a period not less than 14 days after the penalty reminder notice has been served. 47/2014 s. 219. 41/2026 (4) The infringement penalty together with any penalty reminder notice fee may be paid within the extended period as if the infringement notice or law under which the notice was served also required the payment of that fee. (5) A penalty reminder notice must be in writing and contain the prescribed details. (Heading)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 5—Expiation and demerit schemes",
+    "section": "30",
+    "heading": "Person may elect to have matter heard and",
+    "text": "determined in Court or Children's Court (1) A person who has been served with a penalty reminder notice may elect to have the matter of the infringement offence heard and determined in the Court or, in the case of an infringement notice served on a child, heard and determined in the Children's Court. (2) If a person elects to have the matter of the infringement offence heard and determined in the Court or the Children's Court, as the case requires, the person must— (a) make a written statement to the effect that the person has elected to have the matter of the infringement offence heard and determined in the Court or the Children's Court, as the case requires; and (b) serve that written statement on the enforcement agency specified in the penalty reminder notice within 28 days after the penalty reminder notice was served on the person."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 5—Expiation and demerit schemes",
+    "section": "31AA",
+    "heading": "Definition",
+    "text": "In this Division— relevant fee means— (a) any penalty reminder notice fee; and (b) any fees added to the infringement penalty under— (i) this Act or the regulations; or (ii) the Fines Reform Act 2014 or the regulations under that Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 5—Expiation and demerit schemes",
+    "section": "31",
+    "heading": "Exceptions to expiation",
+    "text": "Nothing in this Division affects the operation of— (a) sections 66, 89 and 89A to 89D of the Road Safety Act 1986; (c) sections 61A and 61BA of the Marine (Drug, Alcohol and Pollution Control) Act 1988. (Sch. 6"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 5—Expiation and demerit schemes",
+    "section": "32",
+    "heading": "Expiating the offence",
+    "text": "17/2022 s. 70. (1) This section applies if an infringement notice is not withdrawn and the infringement penalty and any relevant fee are— (a) paid within the period specified in the notice or late payment is accepted in accordance with section 15; or (b) satisfied by the completion of a work and development permit; or (c) waived by the Director when the Director waives the outstanding amount of a relevant infringement fine under section 171AD of the Fines Reform Act 2014. (1A) The person on whom the notice was served has (as appropriate)— (a) subject to subsection (2) and any other Act— (i) expiated the offence by payment of the infringement penalty and any relevant fee; or (ii) expiated the offence by completion of the work and development permit; or (b) expiated the offence by being taken to have served a term of imprisonment in default of payment in accordance with section 171AE of the Fines Reform Act 2014 and any additional steps specified in the notice are not required to be complied with by the person. (2) In the case of an infringement notice involving additional steps in the circumstances specified in subsection (1A)(a), a person has expiated the offence when— (a) the infringement penalty and any relevant fee are— (i) paid within the period specified in the notice or late payment is accepted in accordance with section 15; or 17/2022 s. 70. (ii) satisfied by completion of a work and development permit; and (b) the additional steps are complied with as required by the Act or other instrument that creates the offence. (3) An infringement penalty paid under this Part must be applied in the same way as a fine paid under an order of a court made on an offender being convicted or found guilty of the offence to which the infringement penalty relates."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 5—Expiation and demerit schemes",
+    "section": "33",
+    "heading": "Effect of expiation",
+    "text": "(1) Subject to this Act and any other Act, if a person has expiated an offence under section 32 other than under subsection (1A)(b) of that section— (a) no further proceedings may be taken against the person on whom the notice was served in respect of the offence; and (b) no conviction is to be taken to have been recorded against that person for the offence. (1A) Subject to this Act or any other Act, if a person has expiated an offence under section 32(1A)(b)— (a) no further proceedings may be taken against the person who is the subject of the relevant infringement fine in respect of the offence; and (b) no conviction is to be taken to have been recorded against that person for the offence that was the subject of the relevant infringement fine; and (c) the offence in respect of which the person is serving or has served a non-fine related sentence is not affected by this Division. ss 69(1)(a), 92. (2) The payment of an infringement penalty by a person, or the completion of a work and development permit by a person where the infringement fine is satisfied by that completion, is not and must not be taken to be— (a) an admission of guilt in relation to the offence; or (b) an admission of liability for the purpose of any civil claim or proceeding arising out of the same occurrence, and the payment of the infringement penalty or completion of the work and development permit does not in any way affect or prejudice any such claim or proceeding. (2A) The deemed serving of a term of imprisonment by a person in accordance with section 171AE of the Fines Reform Act 2014 is not and must not be taken to be— (a) an admission of guilt in relation to the offence the subject of the relevant infringement fine; or (b) an admission of liability for the purpose of any civil claim or proceeding arising out of the same occurrence, and the waiving of the outstanding amount of the relevant infringement fine by the Director does not in any way affect or prejudice any such claim or proceeding. (3) The payment of an infringement penalty or completion of the work and development permit or the deemed serving of a term of imprisonment must not be referred to in any report provided to a court for the purpose of determining sentence for any offence. 11/2021 Note The fact that an infringement notice has been served on a person for an act or omission under an Act may be used in the conduct of an inquiry or the taking of disciplinary action under that Act, if the Act so permits. ` (4) For the avoidance of doubt, if an infringement notice is not withdrawn and the infringement penalty and any relevant fees are paid and the offence is expiated in accordance with section 32, no further action in respect of the offence may be taken under this Act or the Fines Reform Act 2014 by— (a) the person who was served with the infringement notice; or (b) the enforcement agency."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 5—Expiation and demerit schemes",
+    "section": "34",
+    "heading": "Demerit point schemes",
+    "text": "Despite anything to the contrary in this Division, the expiation of an infringement offence under this Division in relation to an offence which is— (a) a traffic infringement within the meaning of the Road Safety Act 1986 does not prevent the incurring of demerit points under Part 4 of that Act in relation to the infringement offence; and (Heading) (b) an offence under the Accident Towing Services Act 2007 does not prevent the incurring of accident towing demerit points under that Act in relation to that offence; and (c) an offence under section 108(4), 119 or 120 of the Liquor Control Reform Act 1998 does not prevent the incurring of demerit points under that Act in relation to that offence."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 7—Going to Court—prior to registration",
+    "section": "35",
+    "heading": "Effect of paying by instalments or agreeing to be",
+    "text": "subject to work and development permit for demerit point purposes (1) This section applies in respect of an infringement offence that would result in a person incurring demerit points under the Road Safety Act 1986 or any other Act or other instrument in respect of which a demerit system applies if the person were convicted of the offence. 29/2016 (2) For the purposes of the Road Safety Act 1986 or any other Act or other instrument in respect of which a demerit system applies, a person is to be taken as paying or satisfying the infringement penalty in respect of the offence— (a) on making a part payment; or (b) in the case of a person to whom a payment plan applies, on making the first payment in accordance with the payment plan, or where a subsequent infringement penalty is added to a payment plan, on the making of the next payment following that addition, irrespective, in either case, of whether the payment related to that penalty; or (c) on the approval of a work and development permit by the Director. (Heading and ss 36–38) 87/2009 s. 40, 6/2010 (Sch. 6 29/2016 s. 102, under the Fines Reform Act 2014 (Heading)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 7—Going to Court—prior to registration",
+    "section": "39",
+    "heading": "Penalty to be refunded if election to go to Court is",
+    "text": "made If a person elects under this Part to have the matter of an infringement offence heard and determined in the Court or the Children's Court, as the case requires or an enforcement agency refers a matter to the Court under this Part or to the Children's Court, as the case requires, the amount of any infringement penalty paid by the person must be refunded and— (a) if the penalty had been paid into the Consolidated Fund, the Consolidated Fund is, to the necessary extent, appropriated accordingly; or (b) if the penalty had been paid into another fund or account, the penalty is to be refunded from that fund or account. (Heading) 47/2014"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 7—Going to Court—prior to registration",
+    "section": "40",
+    "heading": "Decision to go to Court",
+    "text": "(1) If a person elects under this Part to have the matter of an infringement offence heard and determined in the Court or an enforcement agency refers a matter in respect of an infringement offence to the Court under this Part— (a) the enforcement agency must lodge with the Court the prescribed information in respect of— (i) the offender; and (ii) the infringement offence; and (iii) the enforcement agency; and (b) the prescribed information lodged under paragraph (a) is deemed to be a charge-sheet, filed with the Court, charging the offence in respect of which the infringement notice was served; and (c) the Court must— (i) allocate a time and place of the hearing of the charge; and (ii) return the hearing details referred to in subparagraph (i) to the enforcement agency for service on the person who was served with the infringement notice; and (d) at least 14 days prior to the hearing date, the enforcement agency must serve the details referred to in paragraphs (a) and (c)(i) on the person who was served with the infringement notice. (2) Service under subsection (1)(d) may be by post to the person who was served with the infringement notice at the address— (a) provided by the person on whom the infringement notice was served; or (b) on the infringement notice; or (c) on the penalty reminder notice. Note The Magistrates' Court Act 1989 applies to the enforcement of non-registrable infringement offences. (3) Subject to section 40A, without limiting any other powers of the Court, the Court may proceed to hear and determine the matter of an infringement offence even though a charge-sheet has not been served on the person who was served with the infringement notice. Note See also sections 80 and 85 of the Criminal Procedure Act 2009. Note to 47/2014 47/2014 Note to 18/2010 s. 41, 64/2010 Note to (4) This section does not apply to an infringement offence alleged to have been committed by a child and the Children, Youth and Families Act 2005 applies in respect of such an infringement offence. Note See section 344A of the Children, Youth and Families Act 2005 and clause 17 of Schedule 3 to that Act for time limits applying to infringement offences in relation to children. (5) This section does not apply to an infringement offence that has been expiated under section 32. Note No further action may be taken in respect of an expiated offence. See section 33(1)(a), (1A)(a) and (4). 47/2014 s. 227."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 7—Going to Court—prior to registration",
+    "section": "40A",
+    "heading": "Going to Court—indictable offences",
+    "text": "If a person has been served with an infringement notice in respect of an infringement offence which is an indictable offence and the person elects under this Part to have the matter heard and determined in the Court or an enforcement agency refers the matter to the Court under this Part, section 28 of the Criminal Procedure Act 2009 applies as if the person had been charged before the Court with that indictable offence."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 2—Infringement notices—pre-enforcement stage",
+    "division": "Division 7—Going to Court—prior to registration",
+    "section": "41",
+    "heading": "Avoiding service",
+    "text": "If, but for this section, the hearing of an infringement offence by the Court may not proceed only because— 47/2014 s. 228. (a) the accused was not served with a notice of the time and place of the hearing; and (b) the Court— (i) is not satisfied that the accused had knowledge of the time and place of the hearing; or (ii) is satisfied that the accused had that knowledge, but is not satisfied that the accused would not be prejudiced by the non-service— the hearing of the offence may proceed if the Court is satisfied that the accused— (c) is avoiding service of the notice; or (d) cannot be found after reasonable search and inquiry."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "41A",
+    "heading": "Extension of time for commencement of proceedings",
+    "text": "if work and development permit cancelled (1) This section applies to the following— (a) an infringement offence that has not been registered with the Director for enforcement under the Fines Reform Act 2014; (b) a non-registrable infringement offence; (c) an infringement offence for which an infringement notice was served on a child in respect of which the infringement penalty and any penalty reminder notice fee have not been registered with the Children's Court under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005. (2) If a work and development permit has been cancelled under section 10E of the Fines Reform Act 2014 in respect of an offence to which this section applies, the period during which a proceeding for the alleged offence may be commenced by an enforcement agency is extended by 6 months after the date of cancellation of the work and development permit. (3) Subsection (2) has effect despite section 7(1) of the Criminal Procedure Act 2009 or any other provision of any Act or other instrument providing for the period during which any proceeding must be commenced for an offence alleged to have been committed. (Heading and ss 42–45)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "46",
+    "heading": "Payment plans available in certain circumstances",
+    "text": "(1) A natural person, including a child, served with an infringement notice may apply to an enforcement agency for a payment plan to pay the infringement penalty and any penalty reminder notice fee in respect of the infringement offence to which the infringement notice relates. 59/2017 (1A) A body corporate served with an infringement notice may apply to an enforcement agency for a payment plan to pay the infringement penalty and any penalty reminder notice fee in respect of the infringement offence to which the infringement notice relates. (2) An application under subsection (1) or (1A) may be made— (a) in the case of— (i) an infringement offence for which an infringement notice was served on a person other than a child, at any time before the registration for enforcement of the infringement penalty in respect of that offence with the Director under the Fines Reform Act 2014; or ss 40(2), 42(Sch. 47/2014 (ii) an infringement offence for which an infringement notice was served on a child, at any time before the infringement penalty in respect of that offence is registered with the Children's Court under clause 4 of Schedule 3 to the Children, Youth and Families Act 2005; and (b) in the case of a non-registrable infringement offence, at any time before the expiry of the period for commencing a proceeding in relation to the offence to which the infringement notice relates, whether in the Court or the Children's Court, as the case requires. (3) An enforcement agency must offer a payment plan to a person who applies under subsection (1) or (1A) if the person meets the eligibility criteria set out in the guidelines. (4) An enforcement agency may offer a payment plan to a person who applies under subsection (1) or (1A) if the enforcement agency decides, in its discretion, that the person should be offered a payment plan. (5) An enforcement agency may offer a payment plan— (a) by arrangement and management of a payment plan for the person to whom it applies by that agency; or 47/2014 (b) by referring the infringement penalty and penalty reminder notice fee in respect of any infringement offence to the Director for management by a payment arrangement under the Fines Reform Act 2014. (6) If an enforcement agency decides not to offer a payment plan to a person who applies under subsection (1) or (1A), the agency must serve on the person written notice of that decision specifying that— (a) a payment plan will not be offered to the person; and (b) the person has 21 days from the date the notice is served to pay the infringement penalty; and (c) failure to pay within 21 days from the date the notice is served may result in any infringement penalty being registered for enforcement with the Director under the Fines Reform Act 2014. (7) An enforcement agency must cease any action taken to collect an infringement penalty and any penalty reminder notice fee from a person served with an infringement notice on receipt of an application made under subsection (1) or (1A) by the person until the application is determined."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "47",
+    "heading": "Payment plans",
+    "text": "(1) A payment plan may be arranged for a person by an enforcement agency for the payment of— (a) one infringement penalty and penalty reminder notice fee in respect of an infringement offence; or (b) 2 or more infringement penalties and penalty reminder notice fees in respect of a number of infringement offences. (2) A payment plan may provide for the payment of an infringement penalty and penalty reminder notice fee— (a) by instalments; or (b) by an extension of time to pay; or (c) by both instalments and an extension of time to pay."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "48",
+    "heading": "Commencement of payment plans",
+    "text": "A payment plan commences when the enforcement agency receives the first payment by its due date in accordance with the proposed payment plan from the person to whom that plan was offered."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "49",
+    "heading": "Payment plans—additions, removals and",
+    "text": "cancellations (1) A person to whom a payment plan applies may request the addition of any infringement penalty and penalty reminder notice fee in respect of an infringement offence to that person's payment plan. (2) A person to whom a payment plan applies may request— (a) the removal of an infringement penalty and penalty reminder notice fee in respect of an infringement offence from that person's payment plan; or (b) the cancellation of the payment plan. (3) If an enforcement agency withdraws an infringement notice under this Act or the Act or other instrument which establishes the infringement offence for which the infringement notice was served, the enforcement agency must remove the infringement penalty and any penalty reminder notice fee for the infringement offence in relation to the withdrawn infringement notice from a person's payment plan. Note See also section 48(3) of the Fines Reform Act 2014. (4) If an infringement penalty and penalty reminder notice fee are removed from a payment plan in accordance with a request of a person under subsection (2)(a) or an enforcement agency under subsection (3), or a payment plan is cancelled in accordance with subsection (2)(b), any money paid in respect of that infringement penalty and penalty reminder notice fee is— (a) to be allocated to the payment of the oldest infringement notice to which the infringement penalty and penalty reminder notice fee relate then remaining in the payment plan; or (b) subject to subsection (5), if the removal or cancellation results in the completion of the payment plan and there is an overpayment, the person is entitled to a refund of any overpayment of money paid and— (i) if the amount has been paid into the Consolidated Fund, the Consolidated Fund is, to the necessary extent, appropriated accordingly; or (ii) if the amount has been paid into another fund or account, the amount is to be refunded from that fund or account. (5) A person is not entitled to a refund under subsection (4)(b) if at the time the infringement penalty and penalty reminder notice fee are removed from the payment plan or the payment plan is cancelled— (a) that person has already paid in full the amount due for the infringement penalty and penalty reminder notice fee; and (b) the infringement offence to which the infringement notice related has been expiated by that payment."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "49A",
+    "heading": "Variation of payment plan",
+    "text": "(1) A person to whom a payment plan applies may apply to the enforcement agency for a variation of the terms of the payment plan. (2) The enforcement agency, in its discretion, may vary the terms of a payment plan. (3) A person who applies for a variation under subsection (1) must continue to comply with the current terms of a payment plan pending a decision by the enforcement agency to vary those terms or refuse the application. (4) The enforcement agency must give written notification to the applicant of the enforcement agency's decision to vary the payment plan or to refuse the application for variation as soon as practicable after the decision is made. (5) If a variation is refused by the enforcement agency, the terms of the payment plan continue as they applied before the application for variation."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "49B",
+    "heading": "Addition of infringement penalties requires a new",
+    "text": "payment plan to be made A person who has made a payment plan with an enforcement agency and who wishes to add an infringement penalty to that payment plan must apply for a new payment plan under section 46 in respect of the relevant infringement penalty."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "50",
+    "heading": "Allocation of money received under payment plan",
+    "text": "(1) An enforcement agency must allocate money received under a payment plan in order of priority based on the date each infringement notice was issued in respect of the infringement penalty and any penalty reminder notice fee under the payment plan, with the infringement penalty and any penalty reminder notice fee under the oldest notice being paid out first. 47/2014 (2) The order of priority to be applied when payments under a payment plan are allocated applies to all payment plans managed by an enforcement agency. (3) If a person to whom a payment plan applies makes an overpayment by continuing payments after the payment plan is completed, the enforcement agency must advise the person to whom the plan applies of the overpayment and may— (a) if the person has other outstanding infringement penalties and any penalty reminder notice fee in respect of an infringement offence or outstanding notices of final demand, offer to apply the amount of the overpayment to those outstanding infringement penalties and that outstanding penalty reminder notice fee or any outstanding notices of final demand (as the case requires) if the person— (i) consents to the amount being so applied; and (ii) directs the agency to do so; or (b) refund the amount of the overpayment to the person and— (i) if the amount had been paid into the Consolidated Fund, the Consolidated Fund is, to the necessary extent, appropriated accordingly; or (ii) if the amount had been paid into another fund or account, the amount is to be refunded from that fund or account."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "52",
+    "heading": "Default on a payment plan results in other",
+    "text": "enforcement action (1) A person defaults in the payment of a payment plan if the enforcement agency does not receive a payment in accordance with that plan within 14 days after the due date of the payment. (2) If the enforcement agency does not receive a payment within the time specified in subsection (1), the enforcement agency must send a written notice to the person to whom the payment plan applies advising the person— (a) that the person is in default; and (b) that within 14 days of the notice, the payment plan is cancelled, unless the overdue payment is received before the expiry of that 14 day period; and (c) on cancellation of the payment plan, the outstanding infringement penalty will be dealt with under this Act or enforced by other enforcement action available under the Fines Reform Act 2014."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3—Payment plans",
+    "division": "Division 2—Payment plans",
+    "section": "52A",
+    "heading": "Enforcement action on default, cancellation or",
+    "text": "removal if payment is not complete (1) Any remaining outstanding infringement penalty may be enforced by other enforcement action available under this Act or the Fines Reform Act 2014— (a) on the removal of an infringement penalty from payment plan under section 49(2)(a) by the person to whom the payment plan applies; or (b) on the cancellation of a payment plan under section 49(2)(b) by the person to whom the payment plan applies; or (c) on cancellation of the payment plan under section 52 for default; or (d) if a person does not make the first payment in accordance with section 48. (2) For the purposes of subsection (1), any enforcement action available is to be taken from the point which the infringement penalty to which the removal or cancellation relates had reached in the enforcement lifecycle at the time the payment plan was made for that infringement penalty. Note Depending on the stage that enforcement had reached before the payment plan was made, a penalty reminder notice may be served, or the infringement penalty may be registered as an infringement fine and a notice of final demand served or any sanction available under the Fines Reform Act 2014 following default may be applied. (Heading)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3A—Internal review oversight",
+    "division": "Division 2—Payment plans",
+    "section": "53",
+    "heading": "Payment plans may extend period for commencing",
+    "text": "proceedings for offence (1) If a payment plan applies to a person, the period during which proceedings must be commenced for an infringement offence is extended as follows— (a) if the person to whom the payment plan applies defaults on a payment in respect of an infringement offence, by 6 months after the date on which a person has defaulted under the payment plan; 59/2017 s. 123. (b) if a person to whom a payment plan applies removes an infringement penalty and penalty reminder notice fee in respect of an infringement offence from the plan, by 6 months after the date on which the person has removed that infringement penalty and penalty reminder notice fee from the payment plan; 47/2014 (c) if a person to whom a payment plan applies cancels the payment plan in respect of an infringement offence, by 6 months after the date on which the person cancels the payment plan; (d) if a person does not make the first payment in respect of a proposed payment plan in accordance with section 48, by 6 months from the due date of the first payment under that proposed payment plan. Note to (2) Subsection (1) has effect despite section 7(1) of the Criminal Procedure Act 2009, section 344A of the Children, Youth and Families Act 2005 or any other provision of any Act or other instrument providing for the period during which proceedings must be commenced for an offence alleged to have been committed. 68/2009 18/2010 s. 43. (Heading and"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3A—Internal review oversight",
+    "division": "Division 2—Payment plans",
+    "section": "53A",
+    "heading": "Guidelines",
+    "text": "(1) The Director may make guidelines for enforcement agencies setting out— (a) the purposes of internal review; and (b) the obligations of enforcement agencies in performing the internal review function; and (c) any other matter the Director considers appropriate for the purposes of internal review conducted by enforcement agencies. (2) The Director may consult enforcement agencies for the purposes of making guidelines under this section. (3) Guidelines made under this section— (a) must be published in the Government Gazette; and (b) may be published on the Internet."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3A—Internal review oversight",
+    "division": "Division 2—Payment plans",
+    "section": "53B",
+    "heading": "Oversight and monitoring by Director",
+    "text": "(Heading) (1) The Director may request an enforcement agency to give the Director any of the following— (a) information relating to any internal review applications made to the enforcement agency including— (i) the number of internal review applications received; and (ii) the grounds on which applications for internal review were made; and (iii) the outcomes of internal review; (b) the policies, processes and guidelines used by the enforcement agency to determine internal review applications; (c) any complaints received by the enforcement agency relating to internal review; (d) any other prescribed internal review matter. (2) An enforcement agency must comply with a request for information made by the Director under subsection (1)."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 3A—Internal review oversight",
+    "division": "Division 2—Payment plans",
+    "section": "53C",
+    "heading": "Recommendations to enforcement agencies",
+    "text": "(1) The Director may make recommendations to an enforcement agency at any time in relation to its internal review processes and compliance with this Act generally. (2) After receiving any recommendations under subsection (1), an enforcement agency must within a reasonable time give a report to the Director specifying— (a) any action taken by, or planned to be taken by, the enforcement agency to implement the recommendations; and (b) if no action will be taken by the enforcement agency to implement the recommendations, the reasons for that decision."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "53D",
+    "heading": "Reports and recommendations to Attorney-General",
+    "text": "(3) The Director may submit a report to the AttorneyGeneral at any time in relation to any of the following— (a) compliance with this Act by an enforcement agency; (3)(a) (as (b) failure by an enforcement agency to comply with a request made by the Director under section 53B; (3)(a) (as (c) an enforcement agency's response to any recommendations made to it by the Director; (3)(a) (as (d) any issues identified by the Director as part of the Director's functions under this Part. (4) The Director may make recommendations to the Attorney-General at any time for any of the following purposes— (a) improving the operation of internal review; (b) addressing problems or issues encountered by enforcement agencies; (c) dealing with non-compliance with this Act, proper processes and the guidelines by enforcement agencies. (Headings and ss 54–75) ss 25(2), 26– 31, 39(1), 79/2006 s. 24, 81/2006 9/2008 ss 17– 22, 68/2009 items 70.14– 70.21), 87/2009 ss 41, 42, 6/2010 (Sch. 6 items 26.9 (as ss 22, 23(4)(c)), 26.10 (as 30/2013 74/2013 s. 9, 29/2016 ss 75–78, 103, 104, and ss 76–79) ss 43–45, and ss 95– 107) 9/2008 ss 23– 27, 44/2008 and ss 108– 119) ss 34–38, 9/2008 ss 28– 37, 87/2009 65/2011 s. 96, 30/2013 items 13.2– 13.12), and ss 80–94) ss 32, 33, 87/2009 ss 46–48, 37/2014 29/2016 ss 79–81, (Headings and ss 122– 133) 9/2008 s. 38, 87/2009 ss 50–54, (Heading and ss 134–146) and ss 120, 121) 37/2014 (Headings and ss 147– 161) ss 40–49, 9/2008 s. 40, 68/2009 items 70.22– 70.24), 87/2009 65/2011 ss 97, 98, 26/2012 ss 51, 54, 29/2016 ss 85–89,"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "162",
+    "heading": "Service of documents",
+    "text": "(1) Subject to this Act, documents required or permitted by this Act to be given or served, may be served— (a) personally; or (b) by post; or (ba) by registered post; or (bb) by email or other electronic communication if a person to be given or served documents— (i) is of or above the age of 16 years; and (ii) has consented orally or in writing to receiving documents by email or other electronic communication; and (iii) has nominated an electronic address by which they can receive an email or other electronic communication; or (bc) by sending the document electronically to an address for the person to be served contained in a prescribed electronic address database; or (c) by any prescribed manner. Note to 87/2009 (4) If a penalty reminder notice is served by post it must be addressed— (a) to the last known place of residence or business of the person alleged to have committed the offence; or (b) if the infringement notice was served under section 87 of the Road Safety Act 1986, to the last address of the person who is the responsible person (within the meaning of Part 6AA of the Road Safety Act 1986) in relation to the vehicle involved in the offence at the time of the offence; or (c) if the infringement notice was issued in respect of an offence to which section 66 of the Road Safety Act 1986 applies, to the last address of the person who is the responsible person (within the meaning of Part 6AA of the Road Safety Act 1986) in relation to the motor vehicle or trailer involved in the offence at the time of the offence; or (d) if the infringement notice was issued in respect of an offence against section 73(1) of the Melbourne City Link Act 1995— (i) to the last address of the person who is the responsible person (within the meaning of Part 6AA of the Road Safety Act 1986) in relation to the vehicle involved in the offence at the time of the offence; or (ii) to the last address of the driver of that vehicle as shown in a statement supplied in accordance with section 72(3) of the Melbourne City Link Act 1995; or (e) if the infringement notice was issued in respect of an offence against section 204 of the EastLink Project Act 2004— (i) to the last address of the owner of the vehicle within the meaning of that Act; or (ii) if a statement or declaration has been supplied under section 199 or 219 of that Act, to the last address of the person alleged in that statement or declaration to have been the driver of the vehicle; or (f) if the infringement notice was issued in respect of an offence against section 32(1) of the West Gate Tunnel (Truck Bans and Traffic Management) Act 2019— (i) to the last address of the operator of the vehicle within the meaning of that Act; or (ii) if a statement has been supplied under section 26 of that Act, to the last address of the person alleged in the statement to have been the driver of the vehicle or operator of the trailer; or (g) if the infringement notice was issued in respect of an offence against section 69(1) of the North East Link Act 2020— (i) to the last address of the operator of the vehicle within the meaning of that Act; or (ii) if a statement has been supplied under section 63 of that Act, to the last address of the person alleged in the statement to have been the driver of the vehicle or operator of the trailer. (5) Any other document served by post under this Act may be addressed to— (a) the address for service given by the person on whom the document is to be served; or (b) the address for the person on whom the document is to be served provided in a nomination statement given by the person in the preceding 12 months. (6) Subject to any evidence to the contrary and despite anything to the contrary in section 49 of the Interpretation of Legislation Act 1984, any document that is served by post in accordance with this section is deemed to be served 7 days after the date specified in the document as the date of that document. (6A) Subject to subsection (6B) and despite section 13A of the Electronic Transactions (Victoria) Act 2000, an email or other electronic communication is taken to have been received at the time the email or other electronic communication is sent. (6B) If an email or other electronic communication is sent after 4.00 p.m. on any day, it is taken to have been received on the next business day. (6C) Subject to any evidence to the contrary, any document that is served by email or other electronic communication in accordance with subsection (1) is deemed to be served at the time the email or other electronic communication is taken to have been received under subsection (6A) or (6B). (7) A document served on a person less than the period required by this Act for service of that kind of document is invalidly served. (8) In this section— last known place of residence or business or last address of a person includes an address provided in a nomination statement given by the person in the preceding 12 months."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "162A",
+    "heading": "Service of certain documents via online platform",
+    "text": "(1) A notification or other document required or permitted by this Act to be given to or served on an enforcement agency by the Director may be given or served by lodging the document on the online platform. (2) A notification or other document required or permitted by this Act to be given to or served on the Director by an enforcement agency may be given or served by lodging the document on the online platform. (3) Subject to subsection (4), a notification or other document required or permitted by Division 3 of Part 2 to be given or served by an enforcement agency on a person who has made an application for internal review may be given or served by lodging the notification or other document on the online platform. (4) An enforcement agency may only give or serve a notification or other document by lodging it on the online platform under subsection (3) if the person who made the application for internal review is a person acting on behalf of a person who has been served with an infringement notice. (5) A notification or other document given or served in accordance with this section is taken to be given or served and received at the time the notification or other document is readily available in electronic form on the online platform and capable of being retrieved."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "163",
+    "heading": "Substituted service",
+    "text": "(1) If for any reason it is impracticable to serve a document in the manner required by section 162, a magistrate may order that such steps be taken as specified in the order for the purposes of bringing the document to the notice of the person to be served. (2) If a magistrate makes an order under subsection (1), he or she may order that the document be taken to have been served on the happening of any specified event, or on the expiry of any specified time. (3) A magistrate may make an order under subsection (1) notwithstanding that the person to be served is out of Victoria or was out of Victoria when the proceeding commenced."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "163A",
+    "heading": "Service deemed despite document being returned to",
+    "text": "sender (1) Subject to subsection (2) and despite anything to the contrary in section 162(6), a document, other than an infringement notice, served by post and returned undelivered to its sender is deemed to be served 7 days after the date specified in the document as the date of that document, despite it being returned to the sender undelivered if the document was posted to— (a) an authorised address; or (b) an address for the person provided in a nomination statement given by the person in the preceding 12 months. (2) Despite anything to the contrary in section 12(2), an infringement notice in respect of an infringement offence served by post and returned undelivered to its sender is deemed to be served 7 days after the date of that infringement notice, despite it being returned to the sender undelivered if the notice was posted to— (a) an authorised address; or (b) an address for the person provided in a nomination statement given by the person in the preceding 12 months. (3) For the purposes of this section, authorised address means— (a) an address recorded in relation to a person in a register kept by a public statutory body (including, in relation to a director, alternate director or secretary of a company within the meaning of the Corporations Act, the Australian Securities and Investments Commission) if by law that person or another person is required to notify that public statutory body of any change in that address; (b) in relation to any document in respect of a transport infringement within the meaning of Part VII of the Transport (Compliance and Miscellaneous) Act 1983 or a ticket infringement within the meaning of that Part, an address provided by a person to an authorised officer or police officer under section 218B of that Act after that officer has requested the person to state his or her name and address because the authorised officer or police officer believes on reasonable grounds that the person has committed a transport infringement or a ticket infringement, as the case requires. (Sch 6 21/2015 29/2016 s. 105. (4) This section has effect despite anything to the contrary in section 49(1) of the Interpretation of Legislation Act 1984. Note to"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "163B",
+    "heading": "Deemed service of electronic communication",
+    "text": "Despite anything to the contrary in section 162(6C), a document that is served on a person by email or other electronic communication is deemed to be served at the time the email or other electronic communication is taken to have been received under section 162(6A) or (6B) even if the sender is notified that the email or other electronic communication has not been received."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "167",
+    "heading": "Offence to give false information",
+    "text": "A person must not intentionally provide false or misleading information in any written statement required by or under this Act. Penalty: 10 penalty units."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 13—General",
+    "division": "Division 2—Payment plans",
+    "section": "167A",
+    "heading": "Minor defects or errors in a notice",
+    "text": "A notice issued or served under this Act is not void only because of a minor defect or error in it."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "168",
+    "heading": "Regulations",
+    "text": "(1) The Governor in Council may make regulations for or with respect to— (b) prescribing forms of infringement notices, including short forms of infringement notices and the circumstances in which various forms of infringement notice may be used; and (c) prescribing processes, systems, the conduct of and other matters relating to, the internal review by enforcement agencies of the issuing and enforcement of infringement notices; and (d) prescribing forms, including composite forms; and (e) prescribing information required under this Act; and (1)(ea)–(ec) (f) prescribing an alternative method to give or serve documents required to be given or served under this Act; and (m) other fees, costs and charges under this Act; and (p) generally prescribing any other matter or thing required or permitted by this Act to be prescribed or necessary to be prescribed to give effect to this Act. (2) A power conferred by subsection (1) to make regulations providing for the imposition of fees may be exercised by providing for all or any of the following matters— (a) specific fees; (b) maximum fees; (c) minimum fees; (d) fees that vary according to value or time; (e) the manner of payment of fees; (f) the time or times at which fees are to be paid. (3) Regulations made under this Act may— (b) be of limited or general application; and (c) leave any matter or thing to be decided by a specified person or class of person; and (d) provide for the exemption of persons or proceedings or a class of persons or proceedings from any of the regulations providing for the imposition of fees; and (e) provide for the reduction, waiver or refund, in whole or in part, of the fees, costs and charges fixed by regulation under this section; and (f) provide, in specified circumstances, for the reinstatement or payment, in whole or in part, of any fee, cost or charge reduced, waived or refunded by the regulations. (4) Without limiting subsection (3), if the regulations provide for a reduction, waiver or refund, in whole or in part, of a fee, cost or charge pursuant to subsection (3), the reduction, waiver or refund— (a) may be expressed to apply either generally or specifically— (i) in respect of certain matters or classes of matters; (ii) in respect of certain persons or classes of persons; (4)(a)(iii)(iv) (v) in respect of a specified enforcement agency or class of enforcement agency; (vi) for a specified period or periods or from a specified commencement date to a specified expiry date; (vii) in respect of any combination of the matters referred to in paragraphs (i) to (vi); (b) may be subject to specified conditions. (Heading and ss 169–185) (Heading and ss 186–210)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "186",
+    "heading": "Definition",
+    "text": ""
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "187",
+    "heading": "General transitional provision",
+    "text": "In this Part, former scheme means Schedule 7 to the Magistrates' Court Act 1989 as in force immediately before its repeal. (1) This Part does not affect or take away from the operation of the Interpretation of Legislation Act 1984. (2) Except as specifically provided, this Part does not affect or take away from any other transitional provision."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "188",
+    "heading": "Infringement offences",
+    "text": ""
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "189",
+    "heading": "Infringement notices",
+    "text": "Subject to this Part and anything to the contrary in this Act, this Act applies to any infringement offence irrespective of whether the infringement offence was committed before, on or after the commencement of section 176(2). (1) Subject to this Part and anything to the contrary in this Act, this Act applies to any infringement notice irrespective of whether the infringement notice was issued or served before, on or after the commencement of section 176(2). (2) Despite subsection (1) and anything to the contrary in this Act, if an infringement notice was issued to or served on a person before the commencement of section 176(2)— (a) the date or period of time specified in the infringement notice as the time by which the person issued or served with the notice must pay the penalty specified in the infringement notice is the date or period of time by which that person must pay that penalty, irrespective of whether that date or period of time specified is less than 28 days after the infringement notice was issued or served; and (b) if any matter specified in the infringement notice conflicts with the requirements of this Act, the matter specified in the infringement notice prevails."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "192",
+    "heading": "Decision to go to Court",
+    "text": "If a person has made a decision under clause 3(6) of the former scheme to decline to be dealt with under Part 2 of that scheme and on the commencement of section 176(2) that matter has not been referred to the Court, on and from that commencement, this Act applies as if that decision under clause 3(6) were an election made under Part 2 of this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "193",
+    "heading": "Payment plans",
+    "text": "A payment plan arranged and managed by an enforcement agency or managed by the Secretary under the former scheme, on and from the commencement of section 176(2)— Ss 190, 191 (a) is deemed to be a payment plan arranged and managed by an enforcement agency or managed by the Secretary (as the case requires) under this Act; and (b) may be managed and dealt with in accordance with Part 3 of this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "194",
+    "heading": "Infringement penalties registered under former",
+    "text": "scheme (1) If an enforcement agency has sought to have an infringement penalty with any prescribed costs registered under the former scheme for enforcement under the former scheme but the infringement penalty and any prescribed costs were not registered before the commencement of section 176(2), the infringement penalty and any prescribed costs, on and from that commencement— (a) are deemed to be lodged under section 54 of this Act; and (b) may be enforced in accordance with this Act. (2) If a registrar under the former scheme registered an infringement penalty or part of an infringement penalty and any prescribed costs under the former scheme before the commencement of section 176(2) but an enforcement order was not made before that commencement, an infringements registrar may make an enforcement order in respect of the infringement penalty or part of an infringement penalty and any prescribed costs under section 59 of this Act as if the details of that infringement penalty or part of an infringement penalty and any prescribed costs had been lodged under section 54 of this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "195",
+    "heading": "Enforcement orders made and notices of",
+    "text": "enforcement order sent under former scheme (1) An enforcement order made under the former scheme is, on and from the commencement of section 59— (a) deemed to be an enforcement order made under section 59 of this Act; and (b) all rights, duties and enforcement mechanisms that apply in respect of an enforcement order made under this Act apply to the deemed enforcement order; and (c) if the registrar under the former scheme has not already caused notice of the enforcement order to be sent, an infringements registrar must cause an enforcement order notice to be sent to the person under section 60 of this Act. (2) A notice under clause 6 of the former scheme sent before the commencement of section 60 to a person against whom an enforcement order has been made is deemed, on and from that commencement, to be an enforcement order notice under section 60 of this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "196",
+    "heading": "Applications for an order to pay fine by instalments",
+    "text": "and extensions of time to pay under former scheme (1) If a natural person (other than a director to whom a declaration under clause 8A of the former scheme applies) has applied to the registrar under the former scheme before the commencement of section 176(2) for an order to pay a fine by instalments or an order to pay a fine within an extended period in accordance with clause 7 of the former scheme and that application is pending on that commencement, an infringements registrar may consider that application under section 77 of this Act as if that application were an application for a payment order under this Act. (2) If a body corporate has applied to the registrar before the commencement of section 176(2) for an order to pay a fine by instalments or an order to pay a fine within an extended period in accordance with clause 7 of the former scheme and that application is pending on that commencement, an infringements registrar must consider the application, and if necessary, make an order under clause 7 of the former scheme as if the former scheme had not been repealed. (3) If a person defaults under an order made pursuant to subsection (2), an infringements registrar may issue an infringement warrant against the person under this Act despite the default being made in respect of an order made under the former scheme."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "197",
+    "heading": "Orders to pay fine by instalments and extension of",
+    "text": "time to pay under former scheme (1) Subject to subsection (2), an order to pay a fine by instalments or an order to pay a fine within an extended period made by the registrar under the former scheme before the commencement of section 176(2) continues in force, on and from that commencement, as if the former scheme had not been repealed until the fine is paid in accordance with the order. (2) On and from the commencement of section 176(2), if a person defaults under an order referred to in subsection (1) for a period of more than 28 days, an infringements registrar may issue an infringement warrant against the person under this Act as if the default had been made under a payment order under this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "198",
+    "heading": "Pending revocation applications under former",
+    "text": "scheme (1) If a revocation application made to the registrar under clause 10(1) of the former scheme is pending on the commencement of section 176(2), an infringements registrar may deal with that application under section 66 of this Act as if that application were a revocation application made under section 65 of this Act. (2) If a revocation application made under clause 10(6) of the former scheme that has been referred to the Court under the former scheme is pending on the commencement of section 176(2), that application may be heard by the Court under section 72 of this Act as if the application were a revocation application made under section 68(1) of this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "199",
+    "heading": "Enforcement orders revoked under former scheme",
+    "text": "On and from the commencement of section 176(2), an enforcement order revoked under the former scheme before that commencement must be taken to be an enforcement order revoked under this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "200",
+    "heading": "Pending hearings under the former scheme",
+    "text": "(1) If, immediately before the commencement of section 176(2), any matter in respect of an alleged infringement offence, including any application to the Court under the former scheme, was pending before the Court under the former scheme but the Court had not begun to hear the matter, on and from that commencement, the matter must be heard and determined by the Court in accordance with this Act. (2) If, immediately before the commencement of section 176(2), a matter in respect of an alleged infringement offence, including any application to the Court under the former scheme, had begun to be heard but had not been determined, the matter, on and from that commencement, must be heard and determined by the Court in accordance with the former scheme as if the former scheme had not been repealed. (3) The repeal of clause 10(8) of the former scheme does not affect any application made under that clause that has not been determined before that repeal."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "201",
+    "heading": "Seven-day notice",
+    "text": "A statement in writing required to be delivered to a person under clause 8(2) of the former scheme before the commencement of section 176(2), on and from that commencement— (a) is deemed, to be a seven-day notice under this Act; and (b) may be relied on and enforced as a sevenday notice under this Act accordingly."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "202",
+    "heading": "Unexecuted warrants issued under former scheme",
+    "text": "(1) A penalty enforcement warrant that is issued against a person under the former scheme before the commencement of Part 6, that has not commenced to be executed before that commencement, on and from that commencement— (a) is deemed to be an infringement warrant issued under this Act; and (b) may be enforced accordingly. (2) A warrant to seize property that is issued against a corporation under the former scheme before the commencement of Part 6, that has not commenced to be executed before that commencement, on and from that commencement— (a) is deemed to be an infringement warrant issued under this Act; and (b) may be enforced accordingly. (3) The sums named in a warrant issued under clause 8 of the former scheme that has been deemed to be an infringement warrant by force of this section, remain recoverable under this Act in respect of the deemed infringement warrant on and from the commencement of section 176(2)."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "203",
+    "heading": "Former scheme warrants where execution has",
+    "text": "commenced If a penalty enforcement warrant or a warrant of seizure and sale had been issued against a person under the former scheme and execution of the warrant had commenced but was not completed before the commencement of section 176(2), the execution of that warrant continues and must be completed, on and from that commencement, in accordance with the former scheme as if the former scheme had not been repealed by this Act."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "204",
+    "heading": "Registrars in PERIN Court",
+    "text": "(1) A registrar employed pursuant to section 17 of the Magistrates' Court Act 1989 on whom functions have been conferred under that Act in respect of any proceeding or class of proceeding under Schedule 7 to that Act before the commencement of section 176(2) is deemed, on and from that commencement, to be an infringements registrar within the meaning of this Act. (2) A deputy registrar employed pursuant to section 17 of the Magistrates' Court Act 1989 to whom duties, powers and functions under that Act were delegated in respect of the PERIN Court under that Act before the commencement of section 176(2) is deemed, on and from that commencement, to be an infringements registrar within the meaning of this Act. (3) Nothing in this section prevents the amendment, variation or revocation of a conferral referred to in subsection (1) or a delegation referred to in subsection (2) under this Act or any other Act. Ss 205, 206"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "207",
+    "heading": "PERIN offences",
+    "text": "(1) An offence under a prescribed provision specified in regulation 1203 of the Magistrates' Court General Regulations 2000 as in force immediately before the commencement of section 176(2), on and from that commencement— (a) is deemed to be a lodgeable infringement offence as if it had been prescribed as a lodgeable infringement offence by regulations made under this Act; (b) may be dealt with as a lodgeable infringement offence under this Act. (2) Nothing in this section prevents regulations made under this Act from amending or revoking any thing deemed to have been prescribed as a lodgeable infringement offence under subsection (1)."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "208",
+    "heading": "Deemed service",
+    "text": "Despite anything to the contrary in the Interpretation of Legislation Act 1984, section 163A applies to a document of a kind referred to in that section served on a person by post and returned undelivered to its sender irrespective of whether that document was served before, on or after the commencement of section 176(2)."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "209",
+    "heading": "Clauses 28 and 29 of Schedule 7 continue to have",
+    "text": "effect Despite the repeal of clauses 28 and 29 of Schedule 7 to the Magistrates' Court Act 1989 by section 176(2), those clauses continue to have effect as if they had not been repealed."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 15—Transitional and savings provisions",
+    "division": "Division 2—Payment plans",
+    "section": "210",
+    "heading": "Regulations dealing with transitional matters",
+    "text": "(1) The Governor in Council may make regulations containing provisions of a transitional nature, including matters of an application or savings nature, arising as a result of the enactment of this Act (including the repeals and amendments made by this Act) or the Infringements (Consequential and Other Amendments) Act 2006. (2) Regulations made under this section may— (a) have a retrospective effect to a day on or from 11 April 2006; and (b) be of limited or general application; and (c) leave any matter or thing to be decided by a specified person or class of person; and (d) provide for the exemption of persons or proceedings or a class of persons or proceedings from any of the regulations made under this section. (3) Regulations under this section have effect despite anything to the contrary in any Act (other than this Act) or in any subordinate instrument."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and",
+    "division": "Division 1—General",
+    "section": "211",
+    "heading": "Transitional provision—Justice Legislation",
+    "text": "Amendment (Victims of Crime Assistance and Other Matters) Act 2010 This Act as amended by Division 1 of Part 4 of the Justice Legislation Amendment (Victims of Crime Assistance and Other Matters) Act 2010 applies to an infringement offence alleged to have been committed— (a) on or after the commencement of Division 1 of Part 4 of that Act; or (b) on or after 1 January 2010 and not more than 6 months before the commencement of Division 1 of Part 4 of that Act. transitional provisions"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and",
+    "division": "Division 2—Fines Reform and Infringements Acts",
+    "section": "211B",
+    "heading": "General transitional provision",
+    "text": "(1) This Part does not affect or take away from the operation of the Interpretation of Legislation Act 1984. (Headings and ss 211B– 211G) (2) Except as specifically provided, this Part does not affect or take away from any other transitional provision. Amendment Act 2016"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and",
+    "division": "Division 2—Fines Reform and Infringements Acts",
+    "section": "211C",
+    "heading": "Definitions",
+    "text": "In this Division— commencement day means the day on which section 83 of the Fines Reform and Infringements Acts Amendment Act 2016 comes into operation."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 2—Fines Reform and Infringements Acts",
+    "section": "211D",
+    "heading": "Internal review applications",
+    "text": "(1) This section applies to an application— (a) made before the commencement day, by a person served with an infringement notice or a person acting on that person's behalf, to an enforcement agency for review of the decision to serve an infringement notice under section 22; and (b) that immediately before the commencement day, has not been reviewed or has not been completely reviewed and a decision made. (2) On and from the commencement day— (a) Division 3 of Part 2 as in force on and after the commencement day applies to the application; and (b) the enforcement agency must review and decide the application as if the application had been made on or after the commencement day."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 2—Fines Reform and Infringements Acts",
+    "section": "211E",
+    "heading": "Person unaware",
+    "text": ""
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 2—Fines Reform and Infringements Acts",
+    "section": "211F",
+    "heading": "Imprisonment",
+    "text": ""
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 3—Fines Reform Act 2014",
+    "section": "211G",
+    "heading": "Applications made under section 161A",
+    "text": "Despite the repeal of Division 6 of Part 2, if a person unaware that an infringement notice has been issued applies to an infringements registrar and the matter is referred to court but not heard and determined before the commencement day, on and from the commencement day, the matter must be determined under that Division as if it had not been repealed. Part 12, as amended by Division 3 of Part 3 of the Fines Reform and Infringements Acts Amendment Act 2016, applies to an infringement offender arrested under an infringement warrant before the amendment of Part 12 if the person failed to appear in the Court before that amendment. (1) Section 161A as in force on and after the commencement of Division 3 of Part 3 of the Fines Reform and Infringements Acts Amendment Act 2016 applies to an application that has been made under section 161A before that commencement but in respect of which the hearing of that application has not commenced before that commencement. (2) Section 161A as in force immediately before the commencement of Division 3 of Part 3 of the Fines Reform and Infringements Acts Amendment Act 2016 continues to apply to an application made under section 161A in respect of which the hearing of the application is part heard but not completed before that commencement as if section 161A had not been substituted. (Heading and ss 212, 214, 216, 217)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 3—Fines Reform Act 2014",
+    "section": "212",
+    "heading": "Definitions",
+    "text": "In this Division— commencement day means the day on which section 247 of the Fines Reform Act 2014 comes into operation."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 3—Fines Reform Act 2014",
+    "section": "214",
+    "heading": "Infringement notices and penalty reminder notices",
+    "text": "(1) Subject to this Part and anything to the contrary in this Act or the Fines Reform Act 2014, on and from the commencement day, this Act and the Fines Reform Act 2014 apply to any infringement notice irrespective of whether the infringement notice was issued before, on or after the commencement day. (2) Despite subsection (1) and anything to the contrary in this Act, if an infringement notice was served on a person before the commencement day— (a) the date specified in the infringement notice as the time by which the person served with the notice must pay the infringement penalty specified in the infringement notice is the date by which that person must pay that penalty, if that date is a day on or after the commencement day, irrespective of whether that date specified is more than 21 days after the infringement notice was served; and (b) if any matter specified in the infringement notice conflicts with the requirements of this Act, the matter specified in the infringement notice prevails. (3) Despite subsection (1) and anything to the contrary in this Act, if a penalty reminder notice was served on a person before the commencement day— (a) the date specified in the penalty reminder notice as the time by which the person served with the notice must pay the infringement penalty specified and any penalty reminder notice fee is the date by which that person must pay that penalty, if that date is a day on or after the commencement day, irrespective of whether that date specified is more than 14 days after the penalty reminder notice was served; and (b) if any matter specified in the penalty reminder notice conflicts with the requirements of this Act, the matter specified in the penalty reminder notice prevails."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 3—Fines Reform Act 2014",
+    "section": "216",
+    "heading": "Payment plans",
+    "text": "(1) If, immediately before the commencement day, a payment plan was arranged and managed by an enforcement agency, on and from the commencement day, the payment plan— (a) continues to be managed by the enforcement agency; and (b) continues on the same terms and conditions to which it was subject immediately before that day. (2) If, immediately before the commencement day, a payment plan was arranged and managed by the Secretary under the central payment plan facility, on and from the commencement day, the payment plan— (a) is to be managed by the Director as if the payment plan were a payment arrangement under the Fines Reform Act 2014; and (b) despite paragraph (a), continues to be subject to the same terms and conditions to which it was subject immediately before the commencement day."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "217",
+    "heading": "Guidelines, oversight and recommendations",
+    "text": "(1) Despite the commencement of section 239 of the Fines Reform Act 2014, any guidelines issued under section 53A by the Secretary before that commencement are taken to have been issued by the Director on and from that commencement. (2) Despite the commencement of section 239A of the Fines Reform Act 2014, any request made by the Secretary under section 53B(1) but not complied with under section 53B(2) before that commencement is taken on and from that commencement to have been made by the Director and must be complied with accordingly. (3) Despite the commencement of section 239B of the Fines Reform Act 2014, any recommendation made by the Secretary under section 53C(1) but not reported on by the enforcement agency under section 53C(2) before that commencement— (a) is taken on and from that commencement to have been made by the Director; and (b) must be reported on to the Director accordingly under section 53C(2) as in force after that commencement. (Heading and ss 218–221)"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "218",
+    "heading": "Definition of commencement day",
+    "text": "In this Division— commencement day means the day on which Part 19.11 of the Youth Justice Act 2024 comes into operation."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "219",
+    "heading": "Child cannot be held criminally responsible for",
+    "text": "infringement offence at 10 or 11 years of age (1) A child cannot be held criminally responsible for any conduct that constitutes an infringement offence that is alleged to have occurred when the child was 10 or 11 years of age, irrespective of whether the conduct is alleged to have occurred before, on or after the commencement day. (2) An issuing officer must not serve an infringement notice on a child for an infringement offence allegedly committed by the child when the child was 10 or 11 years of age, irrespective of whether the infringement offence is alleged to have been committed before, on or after the commencement day."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "220",
+    "heading": "Child to be released from obligation to pay an",
+    "text": "infringement penalty (1) If an infringement notice has been served on a child for conduct that is alleged to have occurred when the child was 10 or 11 years of age and immediately before the commencement day, the infringement penalty stated in the infringement notice has not been fully paid, on the commencement day— (a) the child is, by virtue of this section, taken not to have committed the alleged infringement offence; and (b) the enforcement agency must withdraw the infringement notice; and (c) the infringement penalty must be removed from any payment plan arranged under Part 3 for the payment of the infringement penalty; and (d) the child must be unconditionally released from any obligation to pay the infringement penalty and any fee related to the infringement penalty. (2) If an infringement notice is taken to be withdrawn under subsection (1) and part of the infringement penalty and fee (if any) has been paid under a payment plan arranged under Part 3, the amount paid under the payment plan in respect of the penalty and fee (if any) must be refunded and either— (a) if the penalty and fee (if any) have been paid into the Consolidated Fund, the Consolidated Fund is, to the necessary extent, to be appropriated accordingly; or (b) if the penalty and fee (if any) have been paid into another fund or account, the penalty and fee (if any) are to be refunded from that fund or account."
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "221",
+    "heading": "Proceeding in Children's Court to be discontinued",
+    "text": "(1) This section applies to a proceeding commenced under Schedule 3 of the Children, Youth and Families Act 2005 in relation to an infringement offence if— (a) before the commencement day, a child elected under Division 7 of Part 2 of this Act to have the matter heard and determined in Children's Court; and (b) the infringement offence relates to conduct allegedly engaged in by the child when the child was 10 or 11 years of age; and (c) immediately before the commencement day, the proceeding has not been determined. (2) If this section applies to a proceeding, on the commencement day— (a) the enforcement agency must discontinue the proceeding; and (b) the child is, by virtue of this section, taken to be not guilty of the alleged infringement offence; and (c) the infringement notice must be withdrawn; and (d) the child is unconditionally released from any obligation to pay the infringement penalty and any related fee. ═══════════════ Endnotes Endnotes"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "1",
+    "heading": "General information",
+    "text": "See www.legislation.vic.gov.au for Victorian Bills, Acts and current authorised versions of legislation and up-to-date legislative information. Minister's second reading speech— Legislative Assembly: 16 November 2005 Legislative Council: 28 March 2006 The long title for the Bill for this Act was \"to provide for a new framework for the issuing and serving of infringement notices for offences and the enforcement of infringement notices, to amend the Magistrates' Court Act 1989, the Road Safety Act 1986 and the Subordinate Legislation Act 1994 and for other purposes.\" The Infringements Act 2006 was assented to on 11 April 2006 and came into operation on 1 July 2006: Government Gazette 29 June 2006 page 1315. INTERPRETATION OF LEGISLATION ACT 1984 (ILA) Style changes Section 54A of the ILA authorises the making of the style changes set out in Schedule 1 to that Act. References to ILA s. 39B Sidenotes which cite ILA s. 39B refer to section 39B of the ILA which provides that where an undivided section or clause of a Schedule is amended by the insertion of one or more subsections or subclauses, the original section or clause becomes subsection or subclause (1) and is amended by the insertion of the expression \"(1)\" at the beginning of the original section or clause. Interpretation As from 1 January 2001, amendments to section 36 of the ILA have the following effects: • Headings All headings included in an Act which is passed on or after 1 January 2001 form part of that Act. Any heading inserted in an Act which was passed before 1 January 2001, by an Act passed on or after 1 January 2001, forms part of that Act. This includes headings to Parts, Divisions or Subdivisions in a Schedule; sections; clauses; items; tables; columns; examples; diagrams; notes or forms. See section 36(1A)(2A). Endnotes • Examples, diagrams or notes All examples, diagrams or notes included in an Act which is passed on or after 1 January 2001 form part of that Act. Any examples, diagrams or notes on or after 1 January 2001, form part of that Act. See section 36(3A). • Punctuation All punctuation included in an Act which is passed on or after 1 January 2001 forms part of that Act. Any punctuation inserted in an Act which was passed before 1 January 2001, by an Act passed on or after 1 January 2001, forms part of that Act. See section 36(3B). • Provision numbers All provision numbers included in an Act form part of that Act, whether include section numbers, subsection numbers, paragraphs and subparagraphs. See section 36(3C). • Location of \"legislative items\" A \"legislative item\" is a penalty, an example or a note. As from 13 October 2004, a legislative item relating to a provision of an Act is taken to be at the foot of that provision even if it is preceded or followed by another legislative item that relates to that provision. For example, if a penalty at the foot of a provision is followed by a note, both of these legislative items will be regarded as being at the foot of that provision. See section 36B. • Other material Any explanatory memorandum, table of provisions, endnotes, index and other material printed after the Endnotes does not form part of an Act. See section 36(3)(3D)(3E). Endnotes"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "2",
+    "heading": "Table of Amendments",
+    "text": "This publication incorporates amendments made to the Infringements Act 2006 by Acts and subordinate instruments. ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Infringements Act 2006, No. 12/2006 Assent Date: 11.4.06 Commencement Date: Note: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Infringements (Consequential and Other Amendments) Act 2006, No. 32/2006 Assent Date: 13.6.06 Commencement Date: Government Gazette 29.6.06 p. 1315 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Children, Youth and Families (Consequential and Other Amendments) Act 2006, Assent Date: 15.8.06 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation (Further Amendment) Act 2006, No. 79/2006 Assent Date: 10.10.06 Commencement Date: Ss 24, 25 on 1.7.06: s. 2(4) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Road Legislation (Projects and Road Safety) Act 2006, No. 81/2006 Assent Date: 10.10.06 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Water Acts Amendment (Enforcement and Other Matters) Act 2007, Assent Date: 26.6.07 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Accident Towing Services Act 2007, No. 30/2007 Assent Date: 24.7.07 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Endnotes Infringements and Other Acts Amendment Act 2008, No. 9/2008 Assent Date: 18.3.08 Commencement Date: Ss 12–40 on 1.7.08: Special Gazette (No. 172) 27.6.08 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Unclaimed Money Act 2008, No. 44/2008 Assent Date: 26.8.08 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Criminal Procedure Amendment (Consequential and Transitional Provisions) Act 2009, No. 68/2009 Assent Date: 24.11.09 Commencement Date: 10.12.09 p. 3215 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Miscellaneous Amendments Act 2009, No. 87/2009 (as amended by No. 30/2010) Assent Date: 15.12.09 Commencement Date: Ss 40, 43–57 on 17.12.09: Government Gazette 17.12.09 p. 3338; ss 41, 42 on 1.11.10: s. 2(5) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Transport Integration Act 2010, No. 6/2010 (as amended by No. 45/2010) Assent Date: 2.3.10 Commencement Date: (No. 256) 30.6.10 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Amendment (Victims of Crime Assistance and Other Matters) Act 2010, No. 18/2010 Assent Date: 18.5.10 Commencement Date: Ss 41–44 on 19.5.10: s. 2(1) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Further Amendment Act 2010, No. 64/2010 Assent Date: 28.9.10 Commencement Date: Ss 58, 59 on 29.9.10: s. 2(1) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Marine Safety Act 2010, No. 65/2010 Assent Date: 28.9.10 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Endnotes Personal Property Securities (Statute Law Revision and Implementation) Act 2010, No. 74/2010 Assent Date: 19.10.10 Commencement Date: Ss 33, 37(Sch. item 2) on 30.1.12: Special Gazette (No. 423) 21.12.11 p. 3 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Statute Law Revision Act 2011, No. 29/2011 Assent Date: 21.6.11 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Sentencing Amendment (Community Correction Reform) Act 2011, No. 65/2011 Assent Date: 22.11.11 Commencement Date: Ss 97, 98 on 16.1.12: Special Gazette (No. 423) 21.12.11 p. 3; s. 96 on 30.9.13: s. 2(4) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Liquor Control Reform Further Amendment Act 2011, No. 71/2011 Assent Date: 6.12.11 Commencement Date: p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Courts and Sentencing Legislation Amendment Act 2012, No. 26/2012 Assent Date: 29.5.12 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Heavy Vehicle National Law Application Act 2013, No. 30/2013 Assent Date: 4.6.13 Commencement Date: (No. 28) 4.2.14 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Sentencing Amendment (Abolition of Suspended Sentences and Other Matters) Act 2013, No. 32/2013 Assent Date: 4.6.13 Commencement Date: p. 1; s. 54 on 19.4.14: Special Gazette (No. 122) 15.4.14 p. 2 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Endnotes Road Legislation Amendment Act 2013, No. 74/2013 Assent Date: 3.12.13 Commencement Date: This information relates only to the provision/s Current State: amending the Infringements Act 2006 Victoria Police Amendment (Consequential and Other Matters) Act 2014, Assent Date: 3.6.14 Commencement Date: (No. 200) 24.6.14 p. 2 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Fines Reform Act 2014, No. 47/2014 (as amended by Nos 29/2016, 59/2017) Assent Date: 1.7.14 Commencement Date: Ss 203, 204(a), 206, 207(1)–(3), 208–213, 215(2)(b)(3), 217(3)(4), 219, 225–239C, 240(1)(3), 241–244, 246, 247 on 31.12.17: Special Gazette (No. 443) 19.12.17 p. 1; ss 205, 207(4), 214, 215(1)(2)(a)(4), 216, 217(1)(2), 218, 220–224 were never proclaimed, repealed by No. 29/2016 s. 50(1); proclaimed, repealed by No. 59/2017 s. 93 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Statute Law Revision Act 2015, No. 21/2015 Assent Date: 16.6.15 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Fines Reform and Infringements Acts Amendment Act 2016, No. 29/2016 Assent Date: 31.5.16 Commencement Date: Ss 96–106 on 1.6.16: s. 2(1); ss 59, 60 on 1.9.16: Special Gazette (No. 261) 23.8.16 p. 1; ss 61–89 on 1.7.17: s. 2(4); ss 90–95 on 31.12.17: s. 2(2) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Fines Reform Amendment Act 2017, No. 59/2017 2, 3 Assent Date: 5.12.17 Commencement Date: Ss 110–112, 114–124 on 6.12.17: s. 2(1); ss 9, 113 on 21.12.17: Special Gazette (No. 443) 19.12.17 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Endnotes Oaths and Affirmations Act 2018, No. 6/2018 Assent Date: 27.2.18 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Amendment (Family Violence Protection and Other Matters) Act 2018, No. 33/2018 Assent Date: 14.8.18 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 West Gate Tunnel (Truck Bans and Traffic Management) Act 2019, No. 8/2019 Assent Date: 26.3.19 Commencement Date: Ss 111, 112 on 19.2.20: s. 2(3) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Rail Safety Legislation Amendment (National Services Delivery and Related Reforms) Act 2019, No. 41/2019 Assent Date: 6.11.19 Commencement Date: (No. 480) 26.11.19 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Local Government Act 2020, No. 9/2020 Assent Date: 24.3.20 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 North East Link Act 2020, No. 18/2020 Assent Date: 10.6.20 Commencement Date: Ss 134, 135 on 1.3.21: s. 2(2) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Amendment (System Enhancements and Other Matters) Act 2021, No. 11/2021 Assent Date: 23.3.21 Commencement Date: Ss 192–194 on 9.8.21: Special Gazette (No. 420) 3.8.21 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Public Health and Wellbeing Amendment (Pandemic Management) Act 2021, Assent Date: 7.12.21 Commencement Date: Ss 55, 56 on 30.8.22: Special Gazette (No. 438) 30.8.22 p. 1 Current State: This information relates only to the provision/s amending the Infringements Act 2006 Endnotes Justice Legislation Amendment (Fines Reform and Other Matters) Act 2022, Assent Date: 18.5.22 Commencement Date: Ss 68–72, 75, 76 on 19.5.22: s. 2(1); s. 74 on 18.7.22: Special Gazette (No. 346) 5.7.22 p. 1; ss 66, 67, 73 on 8.3.24: s. 2(3) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Youth Justice Act 2024, No. 32/2024 Assent Date: 10.9.24 Commencement Date: Ss 833, 834 on 30.9.25: s. 2(2) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Further Amendment (Miscellaneous) Act 2026, No. 14/2026 Assent Date: 14.4.26 Commencement Date: Ss 34–42, 54, 55 on 15.4.26: s. 2(1) Current State: This information relates only to the provision/s amending the Infringements Act 2006 Justice Legislation Amendment (Family Violence, Coercive Control, Good Character, Risk Assessment and Other Matters) Act 2026, No. 41/2026 Assent Date: 22.9.26 Commencement Date: Current State: This information relates only to the provision/s amending the Infringements Act 2006 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Endnotes"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "3",
+    "heading": "Explanatory details",
+    "text": "Violence Protection Amendment (Information Sharing) Act 2017, repeal of section 164 by section 243 of the Fines Reform Act 2014, Section 41 read as follows:"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "41",
+    "heading": "Infringements Act 2006",
+    "text": "At the foot of section 164 of the Infringements Act 2006 insert— \"Note See also Part 5A of the Family Violence Protection Act 2008 in respect of the use and disclosure obligations of persons or bodies prescribed to be information sharing entities under that Act.\". Table of Amendments (Fines Reform Amendment Act 2017): The amendment proposed by section 9(a) of the Fines Reform Amendment Act 2017, No. 59/2017 is not included in this publication because section 25(3)(e) is not part of this Act. Section 9(a) reads as follows:"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "9",
+    "heading": "What can an enforcement agency decide on review?",
+    "text": "In section 25 of the Infringements Act 2006— (a) in subsection (3), for paragraph (e) substitute— \"(e) be the subject of an application to the Director for a work and development permit; or (f) make an FVS application (within the meaning of the Fines Reform Act 2014) under section 10M of that Act, unless the person has already made an FVS application with respect to the infringement notice.\". Endnotes Table of Amendments (Fines Reform Amendment Act 2017): The amendments proposed by section 119(2) and (4) of the Fines Reform Amendment Act 2017, No. 59/2017 are not included in this publication because section 46(1A) and (7) are not part of this Act. Section 119(2) and (4) read as follows:"
+  },
+  {
+    "act": "Infringements Act 2006",
+    "part": "Part 16—Further savings and transitional provisions",
+    "division": "Division 4—Youth Justice Act 2024",
+    "section": "119",
+    "heading": "Payment plans available in certain circumstances",
+    "text": "(2) In section 46(1A) of the Infringements Act 2006, for \"prescribed costs\" substitute \"penalty reminder notice fee\". (4) In section 46(7) of the Infringements Act 2006, for \"prescribed costs\" substitute \"penalty reminder notice fee\"."
+  }
+]

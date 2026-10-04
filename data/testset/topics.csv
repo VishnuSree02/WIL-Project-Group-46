@@ -1,0 +1,19 @@
+question_id,category,question
+K1,known,What is the penalty for dangerous driving causing death?
+K2,known,What does trafficking a large commercial quantity of drugs mean?
+K3,known,What is a community correction order?
+K4,known,How does a person apply for an internal review of an infringement notice?
+K5,known,What are the purposes of the Road Safety Act?
+K6,known,What are the purposes of the Victoria Police Act?
+I1,inferred,If someone drives dangerously while affected by alcohol and causes serious injury, what offences could apply?
+I2,inferred,Can a court impose both a fine and a community correction order for the same offence?
+I3,inferred,What happens if a person applies for internal review of an infringement notice but the matter later goes to court?
+I4,inferred,Is trafficking a drug of dependence to a child treated differently from trafficking generally?
+I5,inferred,What are a driver's appeal rights after being directed to have an alcohol interlock condition imposed?
+I6,inferred,How does the power of Victoria Police members to use force relate to who counts as a member of the force?
+O1,out_of_kb,What is the penalty for tax fraud under Commonwealth tax law?
+O2,out_of_kb,What are the requirements for obtaining an Australian passport?
+O3,out_of_kb,How does someone apply for a divorce in Victoria?
+O4,out_of_kb,What is the process for probate of a will in Victoria?
+O5,out_of_kb,What are the rules for registering a company in Australia?
+O6,out_of_kb,What is the legal drinking age in New South Wales?

@@ -1,0 +1,18 @@
+# Core retrieval
+rank_bm25==0.2.2
+sentence-transformers==3.0.1
+numpy>=1.24
+
+# LLM calls (to your local Ollama)
+requests>=2.31
+
+# PDF extraction fallback (only used if poppler's pdftotext isn't installed)
+pypdf>=4.0
+
+# Evaluation
+rouge==1.0.1
+# bert-score is optional (heavy: pulls in a BERT model). Uncomment if you
+# want BERTScore in evaluate.py as well as ROUGE-1.
+# bert-score>=0.3.13
+
+pandas>=2.0
