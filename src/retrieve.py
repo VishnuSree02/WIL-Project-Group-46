@@ -106,19 +106,34 @@ def hybrid_search(
     top_k: int = config.FINAL_TOP_K,
     use_dense: bool = True,
     use_rerank: bool = True,
+    retrieval_mode: str = "hybrid",
 ) -> list[dict]:
     """The main entry point: question -> list of section dicts, best first.
 
+    retrieval_mode selects BM25-only, dense-only, or hybrid RRF retrieval.
     Each returned dict is a section from all_sections.json, unmodified
     (act / part / division / section / heading / text).
     """
     sections = load_sections()
 
-    ranked_lists = [bm25_search(query, sections, config.BM25_TOP_N)]
-    if use_dense and config.DENSE_EMBEDDINGS_PATH.exists():
-        ranked_lists.append(dense_search(query, sections, config.DENSE_TOP_N))
+    if retrieval_mode not in {"bm25", "dense", "hybrid"}:
+        raise ValueError("retrieval_mode must be 'bm25', 'dense', or 'hybrid'")
 
-    fused = reciprocal_rank_fusion(ranked_lists)
+    if retrieval_mode == "dense":
+        if not config.DENSE_EMBEDDINGS_PATH.exists():
+            raise FileNotFoundError(
+                f"Dense index not found at {config.DENSE_EMBEDDINGS_PATH}. "
+                "Run `python cli.py build` first."
+            )
+        ranked = dense_search(query, sections, config.DENSE_TOP_N)
+        fused = ranked
+    elif retrieval_mode == "bm25" or not use_dense:
+        fused = bm25_search(query, sections, config.BM25_TOP_N)
+    else:
+        ranked_lists = [bm25_search(query, sections, config.BM25_TOP_N)]
+        if config.DENSE_EMBEDDINGS_PATH.exists():
+            ranked_lists.append(dense_search(query, sections, config.DENSE_TOP_N))
+        fused = reciprocal_rank_fusion(ranked_lists)
 
     final_indices = None
     if use_rerank:

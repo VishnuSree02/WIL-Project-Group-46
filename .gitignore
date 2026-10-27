@@ -20,3 +20,8 @@ results/
 
 # Uncomment this if your data folder contains large PDFs
 # data/
+
+# Generated retrieval indexes (rebuild after changing processed legislation data)
+data/processed/index/*.pkl
+data/processed/index/*.npy
+data/processed/index/meta.json

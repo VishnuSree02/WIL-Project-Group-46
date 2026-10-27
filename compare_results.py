@@ -204,15 +204,11 @@ def print_table(runs):
     print("POLICE CODE RAG EVALUATION COMPARISON")
     print("=" * 100)
 
-    header = (
-        f"{'Metric':45}"
-        f"{runs[0]:>16}"
-        f"{runs[1]:>16}"
-        f"{runs[2]:>20}"
-    )
+    column_width = 18
+    header = f"{'Metric':45}" + "".join(f"{run:>{column_width}}" for run in runs)
 
     print(header)
-    print("-" * 100)
+    print("-" * max(100, 45 + column_width * len(runs)))
 
     # ------------------------------------------------------------
     # Rows
@@ -271,32 +267,29 @@ def print_table(runs):
 
         print(
             f"{label:45}"
-            f"{value(rows[0], key, percent):>16}"
-            f"{value(rows[1], key, percent):>16}"
-            f"{value(rows[2], key, percent):>20}"
+            + "".join(f"{value(row, key, percent):>{column_width}}"
+                      for row in rows)
         )
 
-    print("=" * 100)
+    print("=" * max(100, 45 + column_width * len(runs)))
     print()
 
 
 def main():
-
-    if len(sys.argv) != 4:
+    if len(sys.argv) < 2:
         print(
-            "Usage:\n"
-            "  python compare_results.py "
-            "bm25_only hybrid hybrid_rerank"
+            "Usage:\\n"
+            "  python compare_results.py RUN_NAME [RUN_NAME ...]\\n\\n"
+            "Example (four retrieval configurations):\\n"
+            "  python compare_results.py bm25_only dense_only hybrid hybrid_rerank"
         )
         sys.exit(1)
 
-    runs = sys.argv[1:4]
-
+    runs = sys.argv[1:]
     try:
         print_table(runs)
-
     except FileNotFoundError as e:
-        print(f"\nERROR: {e}")
+        print(f"\\nERROR: {e}")
         sys.exit(1)
 
 

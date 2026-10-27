@@ -9,7 +9,8 @@ from generate import generate_answer
 
 def ask(question: str, top_k: int = config.FINAL_TOP_K,
         use_dense: bool = True, use_rerank: bool = True,
-        llm: str = config.OLLAMA_MODEL, extractive: bool = False) -> dict:
+        llm: str = config.OLLAMA_MODEL, extractive: bool = False,
+        retrieval_mode: str = "hybrid") -> dict:
     """Run the full pipeline for one question.
 
     Returns {"question", "answer", "sources": [section dicts used]}.
@@ -18,7 +19,8 @@ def ask(question: str, top_k: int = config.FINAL_TOP_K,
     a fast sanity check that retrieval is working).
     """
     sections = hybrid_search(question, top_k=top_k, use_dense=use_dense,
-                              use_rerank=use_rerank)
+                              use_rerank=use_rerank,
+                              retrieval_mode=retrieval_mode)
 
     if extractive:
         if not sections:

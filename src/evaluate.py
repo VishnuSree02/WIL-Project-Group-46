@@ -78,7 +78,8 @@ def is_refusal(answer: str) -> bool:
 
 def evaluate(top_k: int = 5, use_dense: bool = True, use_rerank: bool = True,
              llm: str = config.OLLAMA_MODEL, extractive: bool = False,
-             run_name: str = "baseline"):
+             run_name: str = "baseline",
+             retrieval_mode: str = "hybrid"):
     topics, groundtruth, gold = load_testset()
 
     ndcg_scores = defaultdict(list)   # category -> [ndcg, ...]
@@ -89,7 +90,8 @@ def evaluate(top_k: int = 5, use_dense: bool = True, use_rerank: bool = True,
     for row in topics:
         qid, category, question = row["question_id"], row["category"], row["question"]
         result = ask(question, top_k=top_k, use_dense=use_dense,
-                      use_rerank=use_rerank, llm=llm, extractive=extractive)
+                      use_rerank=use_rerank, llm=llm, extractive=extractive,
+                      retrieval_mode=retrieval_mode)
         retrieved_keys = [(s["act"], s["section"]) for s in result["sources"]]
 
         record = {"question_id": qid, "category": category, "question": question,
@@ -119,6 +121,11 @@ def evaluate(top_k: int = 5, use_dense: bool = True, use_rerank: bool = True,
 
     summary = {
         "run_name": run_name,
+        "retrieval_mode": retrieval_mode,
+        "use_rerank": use_rerank,
+        "testset_size": len(topics),
+        "category_counts": {category: sum(1 for row in topics if row["category"] == category)
+                            for category in sorted({row["category"] for row in topics})},
         "ndcg_known": sum(ndcg_scores["known"]) / len(ndcg_scores["known"]) if ndcg_scores["known"] else None,
         "ndcg_inferred": sum(ndcg_scores["inferred"]) / len(ndcg_scores["inferred"]) if ndcg_scores["inferred"] else None,
         "pct_unanswered_out_of_kb": (sum(unanswered_flags) / len(unanswered_flags) * 100) if unanswered_flags else None,
@@ -152,8 +159,12 @@ if __name__ == "__main__":
     parser.add_argument("--extractive", action="store_true",
                          help="skip the LLM, just return the top retrieved section")
     parser.add_argument("--llm", default=config.OLLAMA_MODEL)
+    parser.add_argument("--retrieval-mode", choices=("bm25", "dense", "hybrid"),
+                        default="hybrid",
+                        help="retriever to evaluate; dense requires a built embedding index")
     args = parser.parse_args()
 
     evaluate(top_k=args.top_k, use_dense=not args.no_dense,
               use_rerank=not args.no_rerank, llm=args.llm,
-              extractive=args.extractive, run_name=args.name)
+              extractive=args.extractive, run_name=args.name,
+              retrieval_mode=args.retrieval_mode)

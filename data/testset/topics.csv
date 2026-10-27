@@ -5,7 +5,7 @@ K3,known,What is a community correction order?
 K4,known,How does a person apply for an internal review of an infringement notice?
 K5,known,What are the purposes of the Road Safety Act?
 K6,known,What are the purposes of the Victoria Police Act?
-I1,inferred,If someone drives dangerously while affected by alcohol and causes serious injury, what offences could apply?
+I1,inferred,"If someone drives dangerously while affected by alcohol and causes serious injury, what offences could apply?"
 I2,inferred,Can a court impose both a fine and a community correction order for the same offence?
 I3,inferred,What happens if a person applies for internal review of an infringement notice but the matter later goes to court?
 I4,inferred,Is trafficking a drug of dependence to a child treated differently from trafficking generally?
@@ -17,3 +17,15 @@ O3,out_of_kb,How does someone apply for a divorce in Victoria?
 O4,out_of_kb,What is the process for probate of a will in Victoria?
 O5,out_of_kb,What are the rules for registering a company in Australia?
 O6,out_of_kb,What is the legal drinking age in New South Wales?
+K7,known,What does Victorian law say about driving dangerously?
+K8,known,What is the offence for driving a heavy vehicle at least 35 km/h over the speed limit?
+I7,inferred,"If a driver goes well above the speed limit in a heavy vehicle, what offence may apply?"
+I8,inferred,Can driving dangerously be an offence even if no crash occurs?
+K9,known,How does the Crimes Act define theft?
+K10,known,What is robbery under Victorian criminal law?
+I9,inferred,What is the difference between stealing and robbery?
+I10,inferred,Does robbery involve stealing plus circumstances occurring immediately before or during the theft?
+P1,known,Which Victorian Act covers dangerous driving that causes death or serious injury?
+P2,known,Which provision explains how to request an internal review of an infringement?
+P3,inferred,"If a person is accused of stealing property dishonestly, which section gives the basic meaning of theft?"
+P4,inferred,"Which section addresses robbery, as distinct from ordinary theft?"

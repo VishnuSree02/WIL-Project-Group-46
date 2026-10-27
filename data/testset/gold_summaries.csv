@@ -11,9 +11,21 @@ I3,"Under section 22 of the Infringements Act 2006, a person may apply for an in
 I4,"Yes — section 71AB of the Drugs, Poisons and Controlled Substances Act 1981 specifically criminalises trafficking a drug of dependence to a child, which is treated as a distinct and more serious offence than the general trafficking offence in section 71AC."
 I5,"Under section 50AAA of the Road Safety Act 1986, a driver can be directed to have an alcohol interlock condition imposed. Section 50AAC sets out the driver's right to appeal against that condition."
 I6,"Section 200J of the Victoria Police Act 2013 authorises members of Victoria Police to use reasonable force, and section 10 clarifies who else, beyond police officers themselves, counts as a member of the force for the purposes of the Act."
-O1,"This is not covered in the legislation I have access to."
-O2,"This is not covered in the legislation I have access to."
-O3,"This is not covered in the legislation I have access to."
-O4,"This is not covered in the legislation I have access to."
-O5,"This is not covered in the legislation I have access to."
-O6,"This is not covered in the legislation I have access to."
+O1,This is not covered in the legislation I have access to.
+O2,This is not covered in the legislation I have access to.
+O3,This is not covered in the legislation I have access to.
+O4,This is not covered in the legislation I have access to.
+O5,This is not covered in the legislation I have access to.
+O6,This is not covered in the legislation I have access to.
+K7,Section 64 of the Road Safety Act 1986 addresses dangerous driving. The precise offence and penalty depend on the conduct and applicable circumstances.
+K8,Section 65B of the Road Safety Act 1986 prohibits drivers of heavy vehicles from exceeding the speed limit by 35 km/h or more.
+I7,Section 65B of the Road Safety Act 1986 addresses heavy-vehicle drivers exceeding the speed limit by 35 km/h or more.
+I8,"Section 64 of the Road Safety Act 1986 concerns dangerous driving; whether an offence is established depends on the statutory elements and evidence, not simply whether a crash occurred."
+K9,"Section 72 of the Crimes Act 1958 gives the basic definition of theft, including dishonest appropriation of property belonging to another with the intention of permanently depriving the other of it."
+K10,"Section 75 of the Crimes Act 1958 addresses robbery, which involves theft and additional circumstances specified by the provision."
+I9,"Section 72 of the Crimes Act 1958 defines theft, while section 75 addresses robbery, which involves theft plus additional circumstances set out in the law."
+I10,Section 75 of the Crimes Act 1958 defines robbery by reference to theft and circumstances occurring immediately before or at the time of the theft.
+P1,Section 319 of the Crimes Act 1958 concerns dangerous driving causing death or serious injury.
+P2,Section 22 of the Infringements Act 2006 sets out the process for applying for internal review of an infringement notice.
+P3,Section 72 of the Crimes Act 1958 provides the basic definition of theft.
+P4,"Section 75 of the Crimes Act 1958 addresses robbery, as distinct from the basic definition of theft in section 72."

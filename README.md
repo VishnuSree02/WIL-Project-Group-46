@@ -185,3 +185,34 @@ high answer rate there.
   quality without needing Ollama running, not for real refusal
   behaviour; that's the LLM path's job (see the system prompt in
   `generate.py`).
+
+
+## Evaluation updates (October 2026)
+
+The committed seed evaluation set now contains 30 questions: 12 known, 12 inferred,
+and 6 out-of-knowledge-base questions. It includes speeding, theft-versus-robbery,
+and paraphrased questions. Recheck the gold labels and summaries against the
+authoritative Act versions before using the scores in a report.
+
+The processed Victoria Police Act data removes the duplicate schedule-derived
+entries for sections 8, 9, and 16, retaining the main-body sections. Because this
+changes the corpus order/count, rebuild generated indexes before running retrieval:
+
+```bash
+python cli.py build
+```
+
+Run each retrieval configuration with the same test set and generation settings:
+
+```bash
+python src/evaluate.py --name bm25_only --retrieval-mode bm25 --no-rerank
+python src/evaluate.py --name dense_only --retrieval-mode dense --no-rerank
+python src/evaluate.py --name hybrid --retrieval-mode hybrid --no-rerank
+python src/evaluate.py --name hybrid_rerank --retrieval-mode hybrid
+python compare_results.py bm25_only dense_only hybrid hybrid_rerank
+```
+
+Dense and hybrid runs require the sentence-transformers dependencies and a rebuilt
+dense index. The commands above define the intended experiments; no new performance
+scores are claimed until the runs have completed successfully. The previous 18-question
+results should not be presented as results for this expanded 30-question set.
